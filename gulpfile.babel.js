@@ -335,6 +335,7 @@ gulp.task(
     cache,
     // sitemapTask,
     robotsTask,
+    phpTask
   )
 );
 
