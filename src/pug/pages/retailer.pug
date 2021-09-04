@@ -1,0 +1,21 @@
+extends ../config/template
+append config
+  -pageTitle = 'Retailer'
+  -pageDescription = 'Tequila Mandala'
+  -pageImage = ''
+
+block main
+
+  section.section.retailer__container
+    .list-stores#listStore
+      h2 Find a Retailer
+      .input-search-group
+        input(type="search" placeholder="Find Your Store").search#inputSearch
+        //button.search-button#buttonSearch
+        //  include ../icons/lupa
+    .addressStore-container
+      .addressStore#addresStore
+        h1.storename#storeName
+        .directionStore#directionStore
+      .map-container
+        #map

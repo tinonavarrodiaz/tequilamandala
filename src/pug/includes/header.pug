@@ -1,0 +1,41 @@
+.nav-tequilas#nav-tequilas
+  .tequilas-container
+    ul.menu-tequilas
+      li.menu-tequilas__item
+        a(href="products.html?prod=Tequila-Blanco").menu-tequilas__link
+          //img( srcset="img/bottles/blanco.png, img/bottles/menu-mobile/blanco " sizes="(min-width:1024px), (max-width:1023px)" src="img/bottles/blanco.png")
+          picture
+            source( srcset= "img/bottles/menu-mobile/blanco.png" media="(max-width:1023px)")
+            img(src="img/bottles/blanco1.png")
+          span Tequila Blanco
+      li.menu-tequilas__item
+        a(href="products.html?prod=Tequila-Reposado").menu-tequilas__link
+          picture
+            source( srcset= "img/bottles/menu-mobile/anejo.png" media="(max-width:1023px)")
+            img(src="img/bottles/anejo1.png")
+          span Tequila Reposado
+      li.menu-tequilas__item
+        a(href="products.html?prod=Tequila-Anejo").menu-tequilas__link
+          picture
+            source( srcset= "img/bottles/menu-mobile/reposado.png" media="(max-width:1023px)")
+            img(src="img/bottles/reposado1.png")
+          span Tequila Añejo
+      li.menu-tequilas__item
+        a(href="products.html?prod=Tequila-Extra-Anejo").menu-tequilas__link
+          picture
+            source( srcset= "img/bottles/menu-mobile/extra-anejo.png" media="(max-width:1023px)")
+            img(src="img/bottles/ExtraAnejo.png")
+          span Tequila Extra Añejo
+      li.menu-tequilas__item
+        a(href="limited-edition.html").menu-tequilas__link
+          picture
+            source( srcset= "img/bottles/menu-mobile/limited-edition1.png" media="(max-width:1023px)")
+            img(src="img/bottles/limited-edition1.png")
+          span.le All Limited Edition Bottles
+
+include top-bar
+.main-header__content.animate__animated.animate__fadeInDown#header
+  .mside(style="display:flex;")
+    a(href="./").main-logo: include main-logo
+    include main-menu
+  a(href="https://www.reservebar.com/search?q=Tequila+Mandala" target="_blank", class="buyOnline") Buy Online

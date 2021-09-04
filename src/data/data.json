@@ -1,0 +1,57 @@
+{
+  "team": [
+    {
+      "img": "img/team/Kirk.jpg",
+      "name": "Kirk Cartozian",
+      "cargo": "Operating Partner / CEO"
+    },
+    {
+      "img": "img/team/Craig.jpg",
+      "name": "Craig Cartozian",
+      "cargo": "Operating Partner / COO"
+    },
+    {
+      "img": "img/team/Heidi.jpg",
+      "name": "Heidi Wilde",
+      "cargo": "Operating Partner / CFO"
+    },
+    {
+      "img": "img/team/Humberto.jpg",
+      "name": "Humberto Ibarra",
+      "cargo": "Founding Partner / CMO"
+    },
+    {
+      "img": "img/team/Joel_1.jpg",
+      "name": "Joel García Barreto",
+      "cargo": "Founding Partner / Master Distiller"
+    },
+    {
+      "img": "img/team/Arturo.jpg",
+      "name": "Arturo Lomelí",
+      "cargo": "Founding Partner / México Legal"
+    }
+    
+  ],
+  "limited": [
+    {
+      "name": "Lucha Libre\n2017",
+      "imagenBig": "img/bottles/luchalibre_1-80.jpg"
+    },
+    {
+      "name": "Talismán\n 2019",
+      "imagenBig": "img/bottles/talisman_1-80.jpg"
+    },
+    {
+      "name": "Día de Muertos\n 2018",
+      "imagenBig": "img/bottles/disademuertos2019-80.jpg"
+    },
+    {
+      "name": "Día de Muertos\n 2020",
+      "imagenBig": "img/bottles/diademuertos2020_1-80.jpg"
+    },
+    {
+      "name": "Arte Huichol\n 2020",
+      "imagenBig": "img/bottles/artehuichol_1-80.jpg"
+    }
+  ]
+}
