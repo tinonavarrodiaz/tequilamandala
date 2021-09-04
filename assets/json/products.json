@@ -1,0 +1,53 @@
+{
+  "products" : [
+    {
+      "slug" : "Tequila-Blanco",
+      "name": "Mandala Blanco",
+      "img": "blanco.png",
+      "description" : "Made in small batches with the most mature agaves, full-bodied, distinguished by a sweet flavor and aroma of agave cooked in a traditional brick oven.",
+      "color": "Crystal clear.",
+      "aroma" : "Herbal, citrus and fresh.",
+      "taste" : "Soft and exquisite, leaving a unique sweet finish of cooked agave."
+    },
+    {
+      "slug" : "Tequila-Reposado",
+      "name": "Mandala Reposado",
+      "img" : "anejo.png",
+      "description" : "Made with the selection of the best agave at its optimum point of maturity, passing through a traditional brick oven and subsequently aged in French white oak barrels.",
+      "color": "Light amber.",
+      "aroma" : "Wood, cooked agave, light raisin.",
+      "taste" : "Soft, with a substantive presence of oak notes and cooked agave.",
+      "aging": "8 months in French white oak barrels."
+    },
+    {
+      "slug" : "Tequila-Anejo",
+      "name": "Mandala Añejo",
+      "img" : "reposado.png",
+      "description" : "Of meticulous care in its process, elaborated with the selection of mature agave cooked in brick ovens, receiving a double distillation to reach the perfect taste. Aged 24 months in French white oak barrels, helping to achieve an exquisite body of unequaled flavor.",
+      "color": "Intense golden shades.",
+      "aroma" : "Roasted French oak, cooked agave.",
+      "taste" : "Soft, fruity and sweet, leaving a finish that is persistent and pleasant to the palate.",
+      "aging": "24 months in French white oak barrels."
+    },
+    {
+      "slug": "Tequila-Extra-Anejo",
+      "name": "MANDALA EXTRA AÑEJO",
+      "img" : "ExtraAnejo.png",
+      "description" : "Elegant with great body, aged 7 years in French white oak barrels. Dedicated to those that love the extraordinary and special.",
+      "color": "Marvelous dark amber.",
+      "aroma" : "Intense fruits and toasted oak.",
+      "taste" : "Addictive with a long and profound finish, leaving a harmonious soft flavor, sweet with hints of oak and vanilla.",
+      "aging": "Up to 7 years in French white oak and cognac barrels for the last 24 months."
+    },
+    {
+      "slug" : "Tequila-Limited-Edition",
+      "name": "MANDALA LIMITED EDITION",
+      "img" : "limited-edition.png",
+      "description" : "Elegant with great body, aged 7 years in French white oak barrels. Dedicated to those that love the extraordinary and special.",
+      "color": "Marvelous dark amber.",
+      "aroma" : "Intense fruits and toasted oak.",
+      "taste" : "Addictive with a long and profound finish, leaving a harmonious soft flavor, sweet with hints of oak and vanilla.",
+      "aging": "Up to 7 years in French white oak and cognac barrels for the last 24 months."
+    }
+  ]
+}

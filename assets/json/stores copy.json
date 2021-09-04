@@ -1,0 +1,6043 @@
+[
+  {
+    "LocationName": "Yxta Cocina Mexicana, LLC",
+    "Address1": "601 S Central Avenue",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90021"
+  },
+  {
+    "LocationName": "Yucatan Grill",
+    "Address1": "550 Pacific Coast HWY",
+    "City": "Seal Beach",
+    "State": "CA",
+    "Zip": "90740"
+  },
+  {
+    "LocationName": "Wyman's Liquor",
+    "Address1": "9300 Firestone Blvd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Wally's Wine and Spirits",
+    "Address1": "10459 Jefferson Blvd",
+    "City": "Culver City",
+    "State": "CA",
+    "Zip": "90232"
+  },
+  {
+    "LocationName": "Vallarta Warehouse",
+    "Address1": "12881 Bradley Ave",
+    "City": "Sylmar",
+    "State": "CA",
+    "Zip": "91342"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "1803 E Palmdale Blvd",
+    "City": "Palmdale",
+    "State": "CA",
+    "Zip": "93550"
+  },
+  {
+    "LocationName": "Uptown Liquor",
+    "Address1": "7301 Greenleaf Ave",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90602"
+  },
+  {
+    "LocationName": "Trading Post",
+    "Address1": "9956 LAKEWOOD BLVD",
+    "City": "DOWNEY",
+    "State": "CA",
+    "Zip": "90240"
+  },
+  {
+    "LocationName": "The Wine Country- CA",
+    "Address1": "2301 Redondo Ave",
+    "City": "Signal Hill",
+    "State": "CA",
+    "Zip": "90755"
+  },
+  {
+    "LocationName": "The Bottle House",
+    "Address1": "3012 Grape St.",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92102"
+  },
+  {
+    "LocationName": "The Alchemist District",
+    "Address1": "2493 Park Ave STE 27",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92782"
+  },
+  {
+    "LocationName": "Tequila Ranch Liquor Mart",
+    "Address1": "8007 Somerset Blvd",
+    "City": "Paramount",
+    "State": "CA",
+    "Zip": "90723"
+  },
+  {
+    "LocationName": "Tequila cantina and Grill",
+    "Address1": "4310 W. Magnolia Blvd.",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "2260 N. Lincoln Ave.",
+    "City": "Altadena",
+    "State": "CA",
+    "Zip": "91001"
+  },
+  {
+    "LocationName": "Sunland Produce",
+    "Address1": "8840 Glenoaks Blvd",
+    "City": "sun valley",
+    "State": "CA",
+    "Zip": "91352"
+  },
+  {
+    "LocationName": "Stearns Liquor",
+    "Address1": "4360-62 E STEARNS ST",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90815"
+  },
+  {
+    "LocationName": "South Beverly Grill",
+    "Address1": "114, 118, and  122 S Beverly Blvd",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90212"
+  },
+  {
+    "LocationName": "Sophie's Place",
+    "Address1": "1708 S. Catalina Ave.",
+    "City": "Redando Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Sol Cocina Playa Vista",
+    "Address1": "12775 Millenium Dr",
+    "City": "Playa Vista",
+    "State": "CA",
+    "Zip": "90094"
+  },
+  {
+    "LocationName": "Sol Agave - MV",
+    "Address1": "27741 Crown Valley Pkwy",
+    "City": "Mission Viejo",
+    "State": "CA",
+    "Zip": "92691"
+  },
+  {
+    "LocationName": "So Cal Wine & Spirits",
+    "Address1": "1042 E 1st St",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92780"
+  },
+  {
+    "LocationName": "Shakas",
+    "Address1": "101 W Main St",
+    "City": "Alhambra",
+    "State": "CA",
+    "Zip": "91801"
+  },
+  {
+    "LocationName": "San Francisco World Spirits Comp",
+    "Address1": "San Francisco World Spirits Comp",
+    "City": "San Francisco",
+    "State": "CA",
+    "Zip": "94158"
+  },
+  {
+    "LocationName": "Robert Burns Liquor",
+    "Address1": "157 N. Robertson Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90211"
+  },
+  {
+    "LocationName": "Rilo Imports and Exports",
+    "Address1": "1655 Saint Andrews Cove",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92154"
+  },
+  {
+    "LocationName": "Rilo Import & Export",
+    "Address1": "3065 Beyer Blvd",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92156"
+  },
+  {
+    "LocationName": "Ramirez Liquor",
+    "Address1": "736 S. Soto St.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "Ramirez Liquor ",
+    "Address1": "Ramirez Liquor ",
+    "City": "Pico Rivera",
+    "State": "CA",
+    "Zip": "90660"
+  },
+  {
+    "LocationName": "Ramirez Liquor ",
+    "Address1": "9419 Slauson Ave.",
+    "City": "Pico Rivera",
+    "State": "CA",
+    "Zip": "90660"
+  },
+  {
+    "LocationName": "Ramirez Beverage Center",
+    "Address1": "2765 E OLYMPIC BLVD",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "R Bar",
+    "Address1": "106 W 3rd St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Parkers Lounge",
+    "Address1": "1500 Aviation Blvd.",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90278"
+  },
+  {
+    "LocationName": "PANXA",
+    "Address1": "3935-3939 E BROADWAY",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Old Town Liquor & Deli ",
+    "Address1": "2304 San Diego Avenue",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92110"
+  },
+  {
+    "LocationName": "OLA",
+    "Address1": "21040 PACIFIC COAST HWY STE F200",
+    "City": "HUNTINGTON BEACH",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "OLA",
+    "Address1": "6420 PCH #230",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Mr. Kegs",
+    "Address1": "5914-5918 Warner Ave",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92649"
+  },
+  {
+    "LocationName": "Mercado Taqueria",
+    "Address1": "11929 VENTURA BLVD",
+    "City": "STUDIO CITY",
+    "State": "CA",
+    "Zip": "91604"
+  },
+  {
+    "LocationName": "Mercado on 3rd",
+    "Address1": "7910 -7918 W 3rd St",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90048"
+  },
+  {
+    "LocationName": "Mercado (Santa Monica)",
+    "Address1": "1416 4th St",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90401"
+  },
+  {
+    "LocationName": "Mercado (Pasadena)",
+    "Address1": "140 S. Lake Ave",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91101"
+  },
+  {
+    "LocationName": "Mercado (Manhattan Beach)",
+    "Address1": "3200 N SEPULVEDA BLVD STE 3212A",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Manhattan Fine Wines Inc",
+    "Address1": "1157 Artesia Blvd,",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Maere!",
+    "Address1": "1261 Cabrillo Ave #100",
+    "City": "Torrrance",
+    "State": "CA",
+    "Zip": "90501"
+  },
+  {
+    "LocationName": "Madre",
+    "Address1": "1261 Cabrillo Ave #100",
+    "City": "Torrrance",
+    "State": "CA",
+    "Zip": "90501"
+  },
+  {
+    "LocationName": "Los Amigos Bar and Grill",
+    "Address1": "2825 W. Olive Ave",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": "91505"
+  },
+  {
+    "LocationName": "Lock and Key",
+    "Address1": "11033 Downey Avenue",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "H",
+    "Address1": "11033 Downey Avenue",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Little Sister Redondo Beach",
+    "Address1": "247 Avenida Del Norte",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Liquorama ",
+    "Address1": "901 W. Foothill Blvd.",
+    "City": "Upland",
+    "State": "CA",
+    "Zip": "91786"
+  },
+  {
+    "LocationName": "Liquorama ",
+    "Address1": "Liquorama ",
+    "City": "Upland",
+    "State": "CA",
+    "Zip": "91786"
+  },
+  {
+    "LocationName": "H",
+    "Address1": "Liquorama ",
+    "City": "Upland",
+    "State": "CA",
+    "Zip": "91786"
+  },
+  {
+    "LocationName": "Lincoln Beverage & Fine Wines",
+    "Address1": "727 Lincoln Blvd",
+    "City": "Venice",
+    "State": "CA",
+    "Zip": "90291"
+  },
+  {
+    "LocationName": "H",
+    "Address1": "727 Lincoln Blvd",
+    "City": "Venice",
+    "State": "CA",
+    "Zip": "90291"
+  },
+  {
+    "LocationName": "Las Perlas ",
+    "Address1": "107 E. Sixth St.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90014"
+  },
+  {
+    "LocationName": "Las Perlas ",
+    "Address1": "Las Perlas ",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90014"
+  },
+  {
+    "LocationName": "LA CASA DEL COCINERO",
+    "Address1": "14323 WHITTIER BLVD",
+    "City": "WHITTIER",
+    "State": "CA",
+    "Zip": "90605"
+  },
+  {
+    "LocationName": "Knolls Restaurant",
+    "Address1": "4354 Atlantic Ave",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Kitchen 86",
+    "Address1": "73130 El Paseo",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Zip": "92260"
+  },
+  {
+    "LocationName": "Kalaveras-CA",
+    "Address1": "16530 Bellflower BLVD",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": "90706"
+  },
+  {
+    "LocationName": "Kalaveras - San Pedro",
+    "Address1": "383 W 5th St",
+    "City": "San Pedro",
+    "State": "CA",
+    "Zip": "90731"
+  },
+  {
+    "LocationName": "Kalaveras - Redondo Beach",
+    "Address1": "228 Avenue I",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Kalaveras (Whittier)",
+    "Address1": "13112 Philadelphia St",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90601"
+  },
+  {
+    "LocationName": "Kalaveras (Montebello)",
+    "Address1": "854 N Garfield Ave",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90640"
+  },
+  {
+    "LocationName": "Kalaveras",
+    "Address1": "13112 Philadelphia St",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90601"
+  },
+  {
+    "LocationName": "JP23 SMOKEHOUSE BBQ SPORTS RESTAURANT",
+    "Address1": "101 S HARBOR BLVD STE A",
+    "City": "FULLERTON",
+    "State": "CA",
+    "Zip": "92832"
+  },
+  {
+    "LocationName": "Johnys Liqour (Montebello)",
+    "Address1": "400 Washington Blvd",
+    "City": "Montebello",
+    "State": "CA",
+    "Zip": "90640"
+  },
+  {
+    "LocationName": "Johny Liqour (South Gate)",
+    "Address1": "9001 Atlantic Ave",
+    "City": "South Gate",
+    "State": "CA",
+    "Zip": "90280"
+  },
+  {
+    "LocationName": "Isla Latin Kitchen",
+    "Address1": "30 Centerpointe Dr",
+    "City": "La Palma",
+    "State": "CA",
+    "Zip": "90623"
+  },
+  {
+    "LocationName": "Isla Cuban-Latin Kitchen",
+    "Address1": "30 Centerpointe Dr Unit 12-13",
+    "City": "La Palma",
+    "State": "CA",
+    "Zip": "90623"
+  },
+  {
+    "LocationName": "HI-LO LIQUOR MARKET",
+    "Address1": "8582 Washington Blvd",
+    "City": "Culver City",
+    "State": "CA",
+    "Zip": "90232"
+  },
+  {
+    "LocationName": "Hi-Lo Liquor Market (Long Beach)",
+    "Address1": "707 E OCEAN BLVD #A",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Hi Time Wine Cellars ",
+    "Address1": "250 Ogle Street",
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "Happys Liqour (Long Beach)",
+    "Address1": "4172 N Norse Way",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90808"
+  },
+  {
+    "LocationName": "Happy House Liquor",
+    "Address1": "9218 Alondra Blvd",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": "90706"
+  },
+  {
+    "LocationName": "Hacienda Golf Club",
+    "Address1": "718 East Rd",
+    "City": "La Habra Heights",
+    "State": "CA",
+    "Zip": "90631"
+  },
+  {
+    "LocationName": "Griffins Grill",
+    "Address1": "11272 Los Alamitos Blvd",
+    "City": "Los Alamitos",
+    "State": "CA",
+    "Zip": "90720"
+  },
+  {
+    "LocationName": "Glass Bottom Distributors",
+    "Address1": "9479 Slauson Ave",
+    "City": "Pico Rivera",
+    "State": "CA",
+    "Zip": "90660"
+  },
+  {
+    "LocationName": "Gaucho Grill West Covina",
+    "Address1": "1129 W. West Covina Pkwy",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": "91790"
+  },
+  {
+    "LocationName": "Gaucho Grill",
+    "Address1": "8830 Apollo Way #100",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "Frida Mexican Cuisine (BH)",
+    "Address1": "252 N. Beverly Dr.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90210"
+  },
+  {
+    "LocationName": "Farmacia Malhi",
+    "Address1": "1620 CROWS LANDING RD STE H",
+    "City": "MODESTO",
+    "State": "CA",
+    "Zip": "95358"
+  },
+  {
+    "LocationName": "Emilio's Beverage Warehouse ",
+    "Address1": "17251 Lakewood Blvd.",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": "90706"
+  },
+  {
+    "LocationName": "Embassy Suites (Downey)",
+    "Address1": "8425 Firestone Blvd.",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "El Pescador",
+    "Address1": "12002 LAKEWOOD BLVD",
+    "City": "DOWNEY",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "El Matador",
+    "Address1": "1768 Newport Blvd",
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "El Cangrejo Nice",
+    "Address1": "510 Hidden Valley Pkwy",
+    "City": "Corona",
+    "State": "CA",
+    "Zip": "92879"
+  },
+  {
+    "LocationName": "Edwin Mills by Equator",
+    "Address1": "22 Mills PL",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91105"
+  },
+  {
+    "LocationName": "Drago Center ",
+    "Address1": "525 S Flower Street",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90071"
+  },
+  {
+    "LocationName": "Dino's Sports Bar & Grill",
+    "Address1": "17296 Beach Blvd",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92647"
+  },
+  {
+    "LocationName": "Craig D'Eletto",
+    "Address1": "1000 Brickell Avenue",
+    "City": "Miami",
+    "State": "FL",
+    "Zip": "33131"
+  },
+  {
+    "LocationName": "Craig Cartozian",
+    "Address1": "1000 Brickell Ave.",
+    "City": "Miami",
+    "State": "FL",
+    "Zip": "33131"
+  },
+  {
+    "LocationName": "Chianina Steakhouse",
+    "Address1": "5716 E. 2nd St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Champs Liquor #5",
+    "Address1": "8007 Florence Ave.",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90240"
+  },
+  {
+    "LocationName": "Champs Liquor #2",
+    "Address1": "8414 Alondra Blvd",
+    "City": "Paramount",
+    "State": "CA",
+    "Zip": "90723"
+  },
+  {
+    "LocationName": "Breakage",
+    "Address1": "Breakage",
+    "City": "Breakage",
+    "State": "CA",
+    "Zip": "0"
+  },
+  {
+    "LocationName": "BEVMO (Anaheim)",
+    "Address1": "5717 E SANTA ANA CANYON RD",
+    "City": "Anaheim",
+    "State": "CA",
+    "Zip": "92807"
+  },
+  {
+    "LocationName": "BevMo #182 (Lakewood)",
+    "Address1": "4645 Candlewood St",
+    "City": "Lakewood",
+    "State": "CA",
+    "Zip": "90712"
+  },
+  {
+    "LocationName": "Bevmo #167 (Redondo Beach)",
+    "Address1": "Bevmo #167 (Redondo Beach) ",
+    "City": "Torrance",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Bevmo #114 (Murrieta)",
+    "Address1": "24390 VILLAGE WALK PL",
+    "City": "MURRIETA",
+    "State": "CA",
+    "Zip": "92562"
+  },
+  {
+    "LocationName": "BevMo #080 (Long Beach)",
+    "Address1": "6521 E. Pacific Coast Hwy",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Bevmo #063 (Temecula)",
+    "Address1": "39672 WINCHESTER RD",
+    "City": "Temecula",
+    "State": "CA",
+    "Zip": "92591"
+  },
+  {
+    "LocationName": "Bevmo #051 (Pasadena)",
+    "Address1": "885 S ARROYO PKWY",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91105"
+  },
+  {
+    "LocationName": "BevMo  #076 (Palmdale)",
+    "Address1": "39626 10th St.",
+    "City": "Palmdale",
+    "State": "CA",
+    "Zip": "93551"
+  },
+  {
+    "LocationName": "Beverly Hills Liquor/Wine & Deli",
+    "Address1": "8318 Wilshire Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90211"
+  },
+  {
+    "LocationName": "Beverage Warehouse",
+    "Address1": "4935 McConnell Ave",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90066"
+  },
+  {
+    "LocationName": "Avilas El Ranchito (Laguna Niguel)",
+    "Address1": "27941 La Paz Rd",
+    "City": "Laguna Niguel",
+    "State": "CA",
+    "Zip": "92677"
+  },
+  {
+    "LocationName": "ATX Wholesale Liquors LLC - TX",
+    "Address1": "9904 Gray Boulevard",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": "78758"
+  },
+  {
+    "LocationName": "ANEPALCOS CAFE",
+    "Address1": "3737 W CHAPMAN AVE",
+    "City": "ORANGE",
+    "State": "CA",
+    "Zip": "92868"
+  },
+  {
+    "LocationName": "Amor Y Tacos",
+    "Address1": "13333 South Street",
+    "City": "Cerritos",
+    "State": "CA",
+    "Zip": "90703"
+  },
+  {
+    "LocationName": "Aguirre Tequila Imports",
+    "Address1": "511 N Lone Hill Avenue",
+    "City": "San Dimas",
+    "State": "CA",
+    "Zip": "91773"
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "791 S. Mission Rd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "2716 N San Fernando Rd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90065"
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "10050 Magnolia Ave.",
+    "City": "Anaheim",
+    "State": "CA",
+    "Zip": "92804"
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "2260 Lincoln Ave.",
+    "City": "Altadena",
+    "State": "CA",
+    "Zip": "91001"
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "6501 San Fernando Rd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91201"
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "2741 W. MacArthur Blvd",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92704"
+  },
+  {
+    "LocationName": "Playa Amor Mexican Cocina",
+    "Address1": "6527 PCH",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "7900 Imperial Hwy",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "8510 Painter Ave",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90602"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "3425 Whittier Blvd.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "2394 W. Lincoln Ave",
+    "City": "Anaheim",
+    "State": "CA",
+    "Zip": "92801"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "13940 Ramona Blvd.",
+    "City": "Baldwin Park",
+    "State": "CA",
+    "Zip": "91706"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "655 N. Fair Oaks Ave",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91103"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "10175 San Fernando Rd.",
+    "City": "Pacoima",
+    "State": "CA",
+    "Zip": "91331"
+  },
+  {
+    "LocationName": "Buena Park Wine and Spirits",
+    "Address1": "7814 Orangethorpe Ave.",
+    "City": "Buena Park",
+    "State": "CA",
+    "Zip": "90620"
+  },
+  {
+    "LocationName": "The Point",
+    "Address1": "34085 CA-1",
+    "City": "Dana Point",
+    "State": "CA",
+    "Zip": "92629"
+  },
+  {
+    "LocationName": "The Bottle Shoppe",
+    "Address1": "5084 Katella Ave",
+    "City": "Los Alamitos",
+    "State": "CA",
+    "Zip": "90720"
+  },
+  {
+    "LocationName": "Granada Liquor",
+    "Address1": "5501 Orangethorpe Ave",
+    "City": "La Palma",
+    "State": "CA",
+    "Zip": "90623"
+  },
+  {
+    "LocationName": "Ambassador Liquor",
+    "Address1": "1642 E. 4th St.",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Corked",
+    "Address1": "4100 Atlantic",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Santa Monica Liquor",
+    "Address1": "1001 Wilshire Blvd",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90401"
+  },
+  {
+    "LocationName": "Hilltop Markets",
+    "Address1": "815 Indianapolis Ave",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Amapola Markets",
+    "Address1": "Jose7420 Florence Ave",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Meritage Wine Market",
+    "Address1": "6308, 162 S. Rancho Santa Fe Rd #A10",
+    "City": "Encinitas",
+    "State": "CA",
+    "Zip": "92024"
+  },
+  {
+    "LocationName": "Tin Roof Bistro",
+    "Address1": "3500 N. Sepulveda Blvd",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Los Balcones (Studio City)",
+    "Address1": "11334 Moorpark St.",
+    "City": "Studio City",
+    "State": "CA",
+    "Zip": "91602"
+  },
+  {
+    "LocationName": "Avilas El Ranchito Seal Beach",
+    "Address1": "209 Main st.",
+    "City": "Seal Beach",
+    "State": "CA",
+    "Zip": "90740"
+  },
+  {
+    "LocationName": "Calave",
+    "Address1": "299 California Ave",
+    "City": "Palo Alto",
+    "State": "CA",
+    "Zip": "94306"
+  },
+  {
+    "LocationName": "Village Liquor",
+    "Address1": "2905 Honolulu Ave",
+    "City": "La Crescenta",
+    "State": "CA",
+    "Zip": "91214"
+  },
+  {
+    "LocationName": "Menlo Park Fine Wine and Spirits",
+    "Address1": "1820 El Camino Real",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94027"
+  },
+  {
+    "LocationName": "Willow's Market",
+    "Address1": "60 Middlefield Rd",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94025"
+  },
+  {
+    "LocationName": "Dogz Bar and Grill",
+    "Address1": "5300 2nd st.",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Bradley Fine Wine and Spirits",
+    "Address1": "12932 Newport Ave. #1",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92780"
+  },
+  {
+    "LocationName": "Los Balcones (Hollywood)",
+    "Address1": "1360 Vine St.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90028"
+  },
+  {
+    "LocationName": "Corked",
+    "Address1": "4360 Stearns St.",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90815"
+  },
+  {
+    "LocationName": "Amapola Markets",
+    "Address1": "130 Plaza Dr.",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": "91790"
+  },
+  {
+    "LocationName": "A & T Liquor",
+    "Address1": "12202 Downey ave",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "Agaves",
+    "Address1": "200 Pine Ave",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Alce 101",
+    "Address1": "243 N Highway 101",
+    "City": "Solana Beach",
+    "State": "CA",
+    "Zip": "92075"
+  },
+  {
+    "LocationName": "Alegria Cafe & Tapas Bar",
+    "Address1": "115 Pine Ave, Ste. 130",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Aloha Liquor",
+    "Address1": "11837 Lakewood Blvd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Alpine Liquor",
+    "Address1": "2262 Alpine Blvd",
+    "City": "Alpine",
+    "State": "CA",
+    "Zip": "91901"
+  },
+  {
+    "LocationName": "Amapola Market",
+    "Address1": "13733 Garfield Ave",
+    "City": "Paramount",
+    "State": "CA",
+    "Zip": "90723"
+  },
+  {
+    "LocationName": "Ambassador Liquor",
+    "Address1": "1642 E. 4th St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Anejo Cantina",
+    "Address1": "14755 Ventura Blvd",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91403"
+  },
+  {
+    "LocationName": "Ans Liquor",
+    "Address1": "1196 S. Lorena St",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "Artesia Liquor",
+    "Address1": "13315 Artesia Blvd",
+    "City": "Cerritos",
+    "State": "CA",
+    "Zip": "90703"
+  },
+  {
+    "LocationName": "Avilas El Ranchito (Seal Beach)",
+    "Address1": "209 Main ST",
+    "City": "Seal Beach",
+    "State": "CA",
+    "Zip": "90740"
+  },
+  {
+    "LocationName": "Base Liquor",
+    "Address1": "3201 National Ave",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92113"
+  },
+  {
+    "LocationName": "Ben's Food N Liquor",
+    "Address1": "686 Benicia Rd",
+    "City": "Vallejo",
+    "State": "CA",
+    "Zip": "94591"
+  },
+  {
+    "LocationName": "BevMo #037 (Huntington Beach)",
+    "Address1": "16672 Beach Blvd, Suite K",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92647"
+  },
+  {
+    "LocationName": "Bevmo #065 (Vacaville)",
+    "Address1": "1621 E MONTE VISTA AVE # D",
+    "City": "Vacaville",
+    "State": "CA",
+    "Zip": "95688"
+  },
+  {
+    "LocationName": "BevMo #068 (Cypress)",
+    "Address1": "6820 Katella Avenue",
+    "City": "Cypress",
+    "State": "CA",
+    "Zip": "90630"
+  },
+  {
+    "LocationName": "Bevmo #113 (Torrnace)",
+    "Address1": "2533 PACIFIC COAST HWY STE A",
+    "City": "TORRANCE",
+    "State": "CA",
+    "Zip": "90505"
+  },
+  {
+    "LocationName": "Bevmo #126 (San Diego)",
+    "Address1": "3210 ROSECRANS PL",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92110"
+  },
+  {
+    "LocationName": "BevMo #132 (East Pasadena)",
+    "Address1": "3730 E Foothill Blvd.",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91107"
+  },
+  {
+    "LocationName": "BevMo #181 (Whittier)",
+    "Address1": "15525 Whittier Blvd.",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90603"
+  },
+  {
+    "LocationName": "BevMo (Costa Mesa)",
+    "Address1": "1835 Newport Blvd STE  B-129",
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "Bradleys Fine Wines and Spirits",
+    "Address1": "12932 Newport Ave. Suite 1",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92780"
+  },
+  {
+    "LocationName": "Buena Park Wine & Spirit",
+    "Address1": "7814 Orangethrope Ave",
+    "City": "Buena Park",
+    "State": "CA",
+    "Zip": "90621"
+  },
+  {
+    "LocationName": "Café Gratitude",
+    "Address1": "1617 west cliff Dr",
+    "City": "Newport Beach",
+    "State": "CA",
+    "Zip": "92660"
+  },
+  {
+    "LocationName": "Calave",
+    "Address1": "299 S. California Ave.",
+    "City": "Palo Alto",
+    "State": "CA",
+    "Zip": "94306"
+  },
+  {
+    "LocationName": "Calaveras Liquor",
+    "Address1": "105 W. Arrow Hwy",
+    "City": "San Dimas",
+    "State": "CA",
+    "Zip": "91773"
+  },
+  {
+    "LocationName": "Candlewood Country Club",
+    "Address1": "14000 TELEGRAPH RD",
+    "City": "WHITTIER",
+    "State": "CA",
+    "Zip": "90604"
+  },
+  {
+    "LocationName": "Canyon City Liquor",
+    "Address1": "424 W Foothill Blvd",
+    "City": "Azusa",
+    "State": "CA",
+    "Zip": "91702"
+  },
+  {
+    "LocationName": "Case Liquors (Wine and Liquor Depot)",
+    "Address1": "16938 Satacoy St.",
+    "City": "Van Nuys",
+    "State": "CA",
+    "Zip": "91406"
+  },
+  {
+    "LocationName": "Cee Vee Liquor",
+    "Address1": "7750 Palm Ave.",
+    "City": "Highland",
+    "State": "CA",
+    "Zip": "92346"
+  },
+  {
+    "LocationName": "Chato's Tacos",
+    "Address1": "400 N Broadway",
+    "City": "santa ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "Clark Liquor",
+    "Address1": "1750 Clark Ave",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90815"
+  },
+  {
+    "LocationName": "Colony House Liquor Inc",
+    "Address1": "22523 PACIFIC COAST HWY",
+    "City": "MALIBU",
+    "State": "CA",
+    "Zip": "90265"
+  },
+  {
+    "LocationName": "Compadres Cantina",
+    "Address1": "2250 S. Euclid ave",
+    "City": "Ontario",
+    "State": "CA",
+    "Zip": "91762"
+  },
+  {
+    "LocationName": "CORKED",
+    "Address1": "4100 ATLANTIC AVE",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Corked Redondo Beach",
+    "Address1": "1520 Aviation Blvd",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90278"
+  },
+  {
+    "LocationName": "Country Corner",
+    "Address1": "3207 Alameda de las Pulgas",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94025"
+  },
+  {
+    "LocationName": "Crazy Naz Specialty",
+    "Address1": "1450 W. Mission Rd.",
+    "City": "San Marcos",
+    "State": "CA",
+    "Zip": "92069"
+  },
+  {
+    "LocationName": "Cypress Craft Beer & Liquor",
+    "Address1": "9175 Valley View St",
+    "City": "Cypress",
+    "State": "CA",
+    "Zip": "90630"
+  },
+  {
+    "LocationName": "Dal Rae Restaurant",
+    "Address1": "9023 Washington blvd",
+    "City": "Pico Rivera",
+    "State": "CA",
+    "Zip": "90660"
+  },
+  {
+    "LocationName": "Del Rosa Liquor",
+    "Address1": "3480 Del Rosa Ave",
+    "City": "San Bernardino",
+    "State": "CA",
+    "Zip": "92404"
+  },
+  {
+    "LocationName": "Der Wolf",
+    "Address1": "72 N. Fair Oaks.",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91103"
+  },
+  {
+    "LocationName": "Dogz Bar and Grill",
+    "Address1": "5300 E. 2nd st",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "El Cerrito Market Liquor",
+    "Address1": "C & D 19480 E Ontario Ave",
+    "City": "Corona",
+    "State": "CA",
+    "Zip": "92881"
+  },
+  {
+    "LocationName": "Encino Park Liquor",
+    "Address1": "18001 Ventura Blvd",
+    "City": "Encino",
+    "State": "CA",
+    "Zip": "91316"
+  },
+  {
+    "LocationName": "Ernie's Liquors",
+    "Address1": "3870 El Camino Real",
+    "City": "Palo Alto",
+    "State": "CA",
+    "Zip": "94306"
+  },
+  {
+    "LocationName": "Farmshop",
+    "Address1": "225 26th st.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90049"
+  },
+  {
+    "LocationName": "Festival Hall",
+    "Address1": "220 E. 3rd St",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "Fleenor’s Restaurant",
+    "Address1": "400 W 4th st",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "Flyers",
+    "Address1": "1240 E Whitmore Ave",
+    "City": "Ceres",
+    "State": "CA",
+    "Zip": "95307"
+  },
+  {
+    "LocationName": "Forum Liquor",
+    "Address1": "801 S Prairie Ave",
+    "City": "Inglewood",
+    "State": "CA",
+    "Zip": "90301"
+  },
+  {
+    "LocationName": "Fountain Square Liquor",
+    "Address1": "8320 Stewart and Gray Rd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Freeway Liquor",
+    "Address1": "130 N Vincent Ave",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": "91790"
+  },
+  {
+    "LocationName": "G & D Liquor",
+    "Address1": "338 N EUCLID ST",
+    "City": "Fullerton",
+    "State": "CA",
+    "Zip": "92832"
+  },
+  {
+    "LocationName": "G and D Liquor 2",
+    "Address1": "671 S Beach Blvd",
+    "City": "La Habra",
+    "State": "CA",
+    "Zip": "90631"
+  },
+  {
+    "LocationName": "Gaucho Grill Buena Park",
+    "Address1": "5980 Orangethorpe Ave",
+    "City": "Buena Park",
+    "State": "CA",
+    "Zip": "90620"
+  },
+  {
+    "LocationName": "Georges Liquor Jr Market",
+    "Address1": "14102 Oxnard St",
+    "City": "Van Nuys",
+    "State": "CA",
+    "Zip": "91401"
+  },
+  {
+    "LocationName": "Glenmark Hotel",
+    "Address1": "1100 N Brand Blvd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91202"
+  },
+  {
+    "LocationName": "Granada Liquor (La Palma)",
+    "Address1": "5501 Orangethorpe Ave",
+    "City": "La Palma",
+    "State": "CA",
+    "Zip": "90623"
+  },
+  {
+    "LocationName": "Green Acres Liquors",
+    "Address1": "10725 Rosedale Hwy",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93312"
+  },
+  {
+    "LocationName": "Hageman Liquor",
+    "Address1": "9919 Hageman Rd",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93312"
+  },
+  {
+    "LocationName": "Handy Liquor",
+    "Address1": "10642 Balboa Blvd",
+    "City": "Granada Hills",
+    "State": "CA",
+    "Zip": "91344"
+  },
+  {
+    "LocationName": "Happy Liqour",
+    "Address1": "22203 Norwalk Blvd",
+    "City": "Hawaiian Gardens",
+    "State": "CA",
+    "Zip": "90716"
+  },
+  {
+    "LocationName": "Happy Liquor",
+    "Address1": "13759 Leffingwell Rd",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90605"
+  },
+  {
+    "LocationName": "Happy Place Craft Beer W & S",
+    "Address1": "1500 Los Angeles Ave",
+    "City": "Ventura",
+    "State": "CA",
+    "Zip": "93004"
+  },
+  {
+    "LocationName": "Happy’s Liquor (El Monte)",
+    "Address1": "10801 Garvey Ave",
+    "City": "El Monte",
+    "State": "CA",
+    "Zip": "91733"
+  },
+  {
+    "LocationName": "HI LITE LIQUOR",
+    "Address1": "14111 BEACH BLVD",
+    "City": "WESTMINSTER",
+    "State": "CA",
+    "Zip": "92683"
+  },
+  {
+    "LocationName": "Hilltop Liquor",
+    "Address1": "815 Indianapolis Ave",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Hilltop Liquor (San Diego)",
+    "Address1": "2499 Market Street",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92102"
+  },
+  {
+    "LocationName": "Holiday Wine Cellar ",
+    "Address1": "302 W Mission Ave.",
+    "City": "Escondido",
+    "State": "CA",
+    "Zip": "92025"
+  },
+  {
+    "LocationName": "Home of the Hangover",
+    "Address1": "42074 Big Bear Blvd",
+    "City": "Big Bear",
+    "State": "CA",
+    "Zip": "92315"
+  },
+  {
+    "LocationName": "Honor Wine & Spirits",
+    "Address1": "114 S Beverly Dr",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90212"
+  },
+  {
+    "LocationName": "House of Liquor",
+    "Address1": "1008 E Colorado St.",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91205"
+  },
+  {
+    "LocationName": "JD’S",
+    "Address1": "215 S El Camino Real",
+    "City": "San Clemente",
+    "State": "CA",
+    "Zip": "92762"
+  },
+  {
+    "LocationName": "JJ liquor",
+    "Address1": "14055 Rosedale Hwy",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93314"
+  },
+  {
+    "LocationName": "Kay N Daves (Pacific Palisades)",
+    "Address1": "15246 W SUNSET BLVD",
+    "City": "PACIFIC PALISADES",
+    "State": "CA",
+    "Zip": "90272"
+  },
+  {
+    "LocationName": "Korker Liquor",
+    "Address1": "2229 East Coast Hwy",
+    "City": "Corona Del Mar",
+    "State": "CA",
+    "Zip": "92625"
+  },
+  {
+    "LocationName": "La Amapola, Inc. ",
+    "Address1": "La Amapola, Inc. ",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90240"
+  },
+  {
+    "LocationName": "La Bodega Wine & Spirits",
+    "Address1": "3512 Central Avenue",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": "92506"
+  },
+  {
+    "LocationName": "La Cumbre C C",
+    "Address1": "4015 Via Laguna",
+    "City": "Santa Barbara",
+    "State": "CA",
+    "Zip": "93110"
+  },
+  {
+    "LocationName": "La Vida Cantina",
+    "Address1": "1870 HARBOR BLVD",
+    "City": "COSTA MESA",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "Lindy's Liquor",
+    "Address1": "11720 Aviation Blvd",
+    "City": "Inglewood",
+    "State": "CA",
+    "Zip": "90304"
+  },
+  {
+    "LocationName": "Liquor Paradise",
+    "Address1": "10277 Foothill Blvd",
+    "City": "Rancho Cucamonga",
+    "State": "CA",
+    "Zip": "91730"
+  },
+  {
+    "LocationName": "Los Balcones Del Peru",
+    "Address1": "1358-1360 VINE ST",
+    "City": "LOS ANGELES",
+    "State": "CA",
+    "Zip": "90028"
+  },
+  {
+    "LocationName": "Los Toros",
+    "Address1": "221 main st",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Mac's on 2nd",
+    "Address1": "5340 2nd St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Malibu Liquor",
+    "Address1": "4937 Las Virgenes Rd",
+    "City": "Calabasas",
+    "State": "CA",
+    "Zip": "91302"
+  },
+  {
+    "LocationName": "MamaJaan Food & Liquor",
+    "Address1": "3082 W. Bullard Ave",
+    "City": "Fresno",
+    "State": "CA",
+    "Zip": "93711"
+  },
+  {
+    "LocationName": "Mel & Rose Liquor & Deli",
+    "Address1": "8344 Melrose Ave",
+    "City": "West Hollywood",
+    "State": "CA",
+    "Zip": "90069"
+  },
+  {
+    "LocationName": "Menlo Park Fine Wine & Spirits",
+    "Address1": "1820 El Camino Real",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94027"
+  },
+  {
+    "LocationName": "Meritage Wine Maket & Tasting Room",
+    "Address1": "162 S. Rancho Santa Fe Rd.",
+    "City": "Encinitas",
+    "State": "CA",
+    "Zip": "92024"
+  },
+  {
+    "LocationName": "Mission Liquor ",
+    "Address1": "Mission Liquor ",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91104"
+  },
+  {
+    "LocationName": "Mission Wine & Spirits",
+    "Address1": "708 S. Glendale Ave",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91205"
+  },
+  {
+    "LocationName": "Mission Wine & Spirits",
+    "Address1": "825 W. Glenoaks Blvd",
+    "City": "Glendale, CA",
+    "State": "CA",
+    "Zip": "91202"
+  },
+  {
+    "LocationName": "Mission Wine & Spirits",
+    "Address1": "13654 Burbank Blvd",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91401"
+  },
+  {
+    "LocationName": "Mission Wine & Spirits",
+    "Address1": "6307 Platt Ave",
+    "City": "Woodland Hills",
+    "State": "CA",
+    "Zip": "91367"
+  },
+  {
+    "LocationName": "Nelson's Liquor Land",
+    "Address1": "1435 N LaBrea Avenue",
+    "City": "Inglewood",
+    "State": "CA",
+    "Zip": "90302"
+  },
+  {
+    "LocationName": "Neptune Liquor",
+    "Address1": "600 W PACIFIC COAST HWY",
+    "City": "WILMINGTON",
+    "State": "CA",
+    "Zip": "90744"
+  },
+  {
+    "LocationName": "Nico’s",
+    "Address1": "5760 E 2nd St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "OLA Mexican Kitchen",
+    "Address1": "21040 PACIFIC COAST HWY STE F200",
+    "City": "HUNTINGTON BEACH",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Ola Mexican Kitchen",
+    "Address1": "6420 E PACIFIC COAST HWY # 230",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Old River Liquor",
+    "Address1": "7399 Stewart and Gray Rd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "On The Thirty",
+    "Address1": "14622 Ventura Blvd",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91403"
+  },
+  {
+    "LocationName": "Pacific Standard Prime Steakhouse",
+    "Address1": "1810 S. PCH Hwy",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Party House Liquor",
+    "Address1": "29160 Roadside Dr.",
+    "City": "Agoura Hills",
+    "State": "CA",
+    "Zip": "91301"
+  },
+  {
+    "LocationName": "Party House Liquor (Chino Hills)",
+    "Address1": "4060 CHINO HILLS PKWY",
+    "City": "CHINO HILLS",
+    "State": "CA",
+    "Zip": "91709"
+  },
+  {
+    "LocationName": "Party House Liquor (Redondo Beach)",
+    "Address1": "1817 S CATALINA AVE",
+    "City": "REDONDO BEACH",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Piazza Fine Foods",
+    "Address1": "3922 Middlefield Road",
+    "City": "Palo Alto",
+    "State": "CA",
+    "Zip": "94303"
+  },
+  {
+    "LocationName": "Quicker Liquor",
+    "Address1": "9757 Sierra Ave",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": "92335"
+  },
+  {
+    "LocationName": "Regency West",
+    "Address1": "3339 w 43rd st.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90008"
+  },
+  {
+    "LocationName": "Remedy Liquor  (Glendale)",
+    "Address1": "1700 W Glenoaks Blvd Unit #B",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91201"
+  },
+  {
+    "LocationName": "Remedy Liquor  (La Canada)",
+    "Address1": "Remedy Liquor  (La Canada)",
+    "City": "La Canada Flintridge",
+    "State": "CA",
+    "Zip": "91011"
+  },
+  {
+    "LocationName": "Rileys (Long Beach)",
+    "Address1": "5331-33 E SECOND ST",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Rockys Liquor",
+    "Address1": "1045 W. Foothill Blvd.",
+    "City": "Claremont",
+    "State": "CA",
+    "Zip": "91711"
+  },
+  {
+    "LocationName": "Roco Wine and Spirits",
+    "Address1": "2220 Lake Washington Blvd",
+    "City": "Sacramento",
+    "State": "CA",
+    "Zip": "95691"
+  },
+  {
+    "LocationName": "Saddleback Liquor",
+    "Address1": "1659 E. First St",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "Sam’s Market",
+    "Address1": "801 E. California Ave",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93307"
+  },
+  {
+    "LocationName": "San Dimas Liquor",
+    "Address1": "1427 W Arrow Hwy",
+    "City": "San Dimas",
+    "State": "CA",
+    "Zip": "91773"
+  },
+  {
+    "LocationName": "Santa Ana Country Club",
+    "Address1": "20382 Newport Boulevard",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92707"
+  },
+  {
+    "LocationName": "Santa Monica Liquor",
+    "Address1": "1001 Wilshire Blvd",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90401"
+  },
+  {
+    "LocationName": "Savemore Market (Oakland)",
+    "Address1": "4219 Park Blvd",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip": "94602"
+  },
+  {
+    "LocationName": "Showcase Wine and Spirits",
+    "Address1": "1390-92 N Lake Ave",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91104"
+  },
+  {
+    "LocationName": "SOL AGAVE- SC",
+    "Address1": "111 AVENIDA DEL MAR STE B",
+    "City": "SAN CLEMENTE",
+    "State": "CA",
+    "Zip": "92672"
+  },
+  {
+    "LocationName": "Spirits Liquor",
+    "Address1": "2341 S. Garfield Avenue",
+    "City": "Monterey Park",
+    "State": "CA",
+    "Zip": "91754"
+  },
+  {
+    "LocationName": "Super Antojitos South Coast",
+    "Address1": "3305 S. Bristol St",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92704"
+  },
+  {
+    "LocationName": "Super King Market Warehouse",
+    "Address1": "2716 N San Fernando",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90065"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "10500 Magnolia Ave",
+    "City": "Anaheim",
+    "State": "CA",
+    "Zip": "92804"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "436 Auto Center Dr.",
+    "City": "Claremont",
+    "State": "CA",
+    "Zip": "91711"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "6501 San Fernando Rd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91201"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "19500 Plummer ST",
+    "City": "Northridge",
+    "State": "CA",
+    "Zip": "91324"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "2741 W. MacArthur Blvd",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92704"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "7227 Van Nuys Blvd",
+    "City": "Van Nuys",
+    "State": "CA",
+    "Zip": "91405"
+  },
+  {
+    "LocationName": "Superior Grocers - 56 Various Locations",
+    "Address1": "15510 Carmenita Rd",
+    "City": "Santa Fe Springs",
+    "State": "CA",
+    "Zip": "90670"
+  },
+  {
+    "LocationName": "Tarzana Wine & Spirits ",
+    "Address1": "Tarzana Wine & Spirits ",
+    "City": "Tarzana",
+    "State": "CA",
+    "Zip": "91356"
+  },
+  {
+    "LocationName": "Ted's Liquor",
+    "Address1": "10145 Atlantic Ave.",
+    "City": "South Gate",
+    "State": "CA",
+    "Zip": "90280"
+  },
+  {
+    "LocationName": "Tennessee Jack's",
+    "Address1": "4000 E. Anheim St.",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90804"
+  },
+  {
+    "LocationName": "Tequila cantina and Grill",
+    "Address1": "4310 W Magnolia Blvd",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": "91505"
+  },
+  {
+    "LocationName": "Texas Liquors INC- CA",
+    "Address1": "945 Carlsbad Village Drive",
+    "City": "Carlsbad",
+    "State": "CA",
+    "Zip": "92008"
+  },
+  {
+    "LocationName": "The Bottle Shoppe",
+    "Address1": "14040 Hubbard ST",
+    "City": "Sylmar",
+    "State": "CA",
+    "Zip": "91342"
+  },
+  {
+    "LocationName": "The Brass Tap ( Corona)",
+    "Address1": "705 N MAIN ST",
+    "City": "CORONA",
+    "State": "CA",
+    "Zip": "92880"
+  },
+  {
+    "LocationName": "The Bungalow",
+    "Address1": "6420 E PACIFIC COAST HIGHWAY UNIT 200",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "The Drink Bar",
+    "Address1": "1705 Flight Way",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92782"
+  },
+  {
+    "LocationName": "THE PENINSULA HOTEL- CA",
+    "Address1": "9882 Santa Monica Blvd",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90212"
+  },
+  {
+    "LocationName": "The Point Restaurant & Bar",
+    "Address1": "34085 Pacific Coast Hwy",
+    "City": "Dana Point",
+    "State": "CA",
+    "Zip": "92629"
+  },
+  {
+    "LocationName": "The Willow's Market",
+    "Address1": "60 Middlefield Road",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94025"
+  },
+  {
+    "LocationName": "Tin Roof Bistro (TRB)",
+    "Address1": "3500 N Sepulveda Blvd",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Total Wine (Palm Desert)",
+    "Address1": "72339 Highway 111",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Zip": "92260"
+  },
+  {
+    "LocationName": "Total Wine (San Jose)",
+    "Address1": "5170 Stevens Creek Blvd",
+    "City": "San Jose",
+    "State": "CA",
+    "Zip": "95129"
+  },
+  {
+    "LocationName": "Total Wine (Woodland Hills)",
+    "Address1": "6232 Topanga Canyn Blvd #1380",
+    "City": "Woodland Hills",
+    "State": "CA",
+    "Zip": "91367"
+  },
+  {
+    "LocationName": "Total Wine & More",
+    "Address1": "Total Wine & More",
+    "City": "Laguna Hills",
+    "State": "CA",
+    "Zip": "92653"
+  },
+  {
+    "LocationName": "Total Wine & More (Fremont)",
+    "Address1": "Pacific Commons",
+    "City": "Fremont",
+    "State": "CA",
+    "Zip": "94538"
+  },
+  {
+    "LocationName": "Total Wine & More (Mountain View)",
+    "Address1": "1010 N Rengstorff",
+    "City": "Mountain View",
+    "State": "CA",
+    "Zip": "94043"
+  },
+  {
+    "LocationName": "Total Wine & More (San Ramon)",
+    "Address1": "3161 Crow Canyon Place",
+    "City": "San Ramon",
+    "State": "CA",
+    "Zip": "94583"
+  },
+  {
+    "LocationName": "Total Wine & More (Arden)",
+    "Address1": "Sacramento - Arden Way and Howe Ave.",
+    "City": "Sacramento",
+    "State": "CA",
+    "Zip": "95825"
+  },
+  {
+    "LocationName": "Total Wine & More (Brea) -CA",
+    "Address1": "Brea Plaza Shopping Center",
+    "City": "Brea",
+    "State": "CA",
+    "Zip": "92821"
+  },
+  {
+    "LocationName": "Total Wine & More (Daly City)",
+    "Address1": "311 Gellert Blvd",
+    "City": "Daly City",
+    "State": "CA",
+    "Zip": "94015"
+  },
+  {
+    "LocationName": "Total Wine & More (Elk Grove)",
+    "Address1": "Laguna Crossroads",
+    "City": "Elk Grove",
+    "State": "CA",
+    "Zip": "95758"
+  },
+  {
+    "LocationName": "Total Wine & More (Folsom)",
+    "Address1": "Broadstone Plaza",
+    "City": "Folsom",
+    "State": "CA",
+    "Zip": "95630"
+  },
+  {
+    "LocationName": "Total Wine & More (Fremont)",
+    "Address1": "43484 BOSCELL RD",
+    "City": "Fremont",
+    "State": "CA",
+    "Zip": "94538"
+  },
+  {
+    "LocationName": "Total Wine & More (Fresno)",
+    "Address1": "7925 N. Blackstone Ave",
+    "City": "Fresno",
+    "State": "CA",
+    "Zip": "93720"
+  },
+  {
+    "LocationName": "Total Wine & More (Huntington)",
+    "Address1": "Huntington",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92647"
+  },
+  {
+    "LocationName": "Total Wine & More (Laguna Hills)",
+    "Address1": "24001 El Toro Road Ste B",
+    "City": "Laguna Hills",
+    "State": "CA",
+    "Zip": "92653"
+  },
+  {
+    "LocationName": "Total Wine & More (Long Beach)",
+    "Address1": "Long Beach Towne Center",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90808"
+  },
+  {
+    "LocationName": "Total Wine & More (Newport Beach)",
+    "Address1": "1280 BISON ST STE B15",
+    "City": "NEWPORT BEACH",
+    "State": "CA",
+    "Zip": "92660"
+  },
+  {
+    "LocationName": "Total Wine & More (Northridge)",
+    "Address1": "Nordhoff Plaza",
+    "City": "Northridge",
+    "State": "CA",
+    "Zip": "91324"
+  },
+  {
+    "LocationName": "Total Wine & More (Palm Desert)",
+    "Address1": "72339 Highway 111",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Zip": "92260"
+  },
+  {
+    "LocationName": "Total Wine & More (Pasadena)",
+    "Address1": "721 E Colorado Blvd",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91101"
+  },
+  {
+    "LocationName": "Total Wine & More (Pleasant Hill)",
+    "Address1": "3250 Buskirk Ave",
+    "City": "Pleasant Hill",
+    "State": "CA",
+    "Zip": "94523"
+  },
+  {
+    "LocationName": "Total Wine & More (Pleasanton) -  CA",
+    "Address1": "4225 Rosewood Dr.",
+    "City": "Pleasanton",
+    "State": "CA",
+    "Zip": "94588"
+  },
+  {
+    "LocationName": "Total Wine & More (Rancho Cucamonga)",
+    "Address1": "Foothill Crossing",
+    "City": "Rancho Cucamongo",
+    "State": "CA",
+    "Zip": "91739"
+  },
+  {
+    "LocationName": "Total Wine & More (Redondo Beach)",
+    "Address1": "South Bay Marketplace",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90278"
+  },
+  {
+    "LocationName": "Total Wine & More (Roseville)",
+    "Address1": "Fairway Commons Shopping Center",
+    "City": "Roseville",
+    "State": "CA",
+    "Zip": "95678"
+  },
+  {
+    "LocationName": "Total Wine & More (San Jose)",
+    "Address1": "5140 CHERRY AVE STE 30",
+    "City": "San Jose",
+    "State": "CA",
+    "Zip": "95118"
+  },
+  {
+    "LocationName": "Total Wine & More (San Mateo)",
+    "Address1": "2250 Bridgepointe Pkwy",
+    "City": "San Mateo",
+    "State": "CA",
+    "Zip": "94404"
+  },
+  {
+    "LocationName": "TOTAL WINE & MORE (Temecula)- CA",
+    "Address1": "40432 WINCHESTER RD",
+    "City": "TEMECULA",
+    "State": "CA",
+    "Zip": "92591"
+  },
+  {
+    "LocationName": "Total Wine & More (Thousand Oaks)",
+    "Address1": "Best Buy Plaza",
+    "City": "Thousand Oaks",
+    "State": "CA",
+    "Zip": "91360"
+  },
+  {
+    "LocationName": "Total Wine & More (Tustin)",
+    "Address1": "The Market Place",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92782"
+  },
+  {
+    "LocationName": "Tribute (te'kila)",
+    "Address1": "13817 Ventura Blvd",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91423"
+  },
+  {
+    "LocationName": "Tustin Wine & Spirits",
+    "Address1": "14211 Red Hill Ave",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92780"
+  },
+  {
+    "LocationName": "US Liquor",
+    "Address1": "3122 N. Los Coyotes Diag",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90808"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets (54 various locations)",
+    "Address1": "1803 E Palmdale Blvd",
+    "City": "Palmdale",
+    "State": "CA",
+    "Zip": "93550"
+  },
+  {
+    "LocationName": "Valley Beverages",
+    "Address1": "Valley Beverages",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91403"
+  },
+  {
+    "LocationName": "Valley Liquor & Fine Wine (VanNuys)",
+    "Address1": "7357 Van Nuys Blvd",
+    "City": "Van Nuys",
+    "State": "CA",
+    "Zip": "91405"
+  },
+  {
+    "LocationName": "Vendome - Fullerton, CA ",
+    "Address1": "Vendome - Fullerton, CA ",
+    "City": "Fullerton",
+    "State": "CA",
+    "Zip": "92831"
+  },
+  {
+    "LocationName": "Village Liquor",
+    "Address1": "2905 HONOLULU AVE",
+    "City": "LA CRESCENTA",
+    "State": "CA",
+    "Zip": "91214"
+  },
+  {
+    "LocationName": "Village Liquor (San Bernardino)",
+    "Address1": "4117 Riverside Dr",
+    "City": "Chino",
+    "State": "CA",
+    "Zip": "91710"
+  },
+  {
+    "LocationName": "Virginia Country Club",
+    "Address1": "4602 N. Virginia Rd.,",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Vista wine spirits",
+    "Address1": "10223 Prospect Ave",
+    "City": "Santee",
+    "State": "CA",
+    "Zip": "92071"
+  },
+  {
+    "LocationName": "Wades Wines",
+    "Address1": "30961 Agoura Rd Ste 321",
+    "City": "West Lake Village",
+    "State": "CA",
+    "Zip": "91361"
+  },
+  {
+    "LocationName": "Wally's  Beverly Hills",
+    "Address1": "447 N Canon Dr.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90210"
+  },
+  {
+    "LocationName": "Wallys Wine & Spirits( Santa Monica)- CA",
+    "Address1": "214 Wilshire Blvd",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90401"
+  },
+  {
+    "LocationName": "5 Boys Liquor",
+    "Address1": "8025 Tippecanoe Ave",
+    "City": "San Bernardino",
+    "State": "CA",
+    "Zip": "92410"
+  },
+  {
+    "LocationName": "BLUE AGAVE",
+    "Address1": "185 E. SANTA CLARA ST",
+    "City": "VENTURA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "MISSION TRAILS WINE & SPIRITS",
+    "Address1": "8181 Mission Gorge Rd A",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Arrow Liquor",
+    "Address1": "18150 Arrow BlvdUnit B",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": "92335"
+  },
+  {
+    "LocationName": "WINE AND LIQUOR DEPOT",
+    "Address1": "16938 SATICOY ST.",
+    "City": "VAN NUYS",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "BestBev Liquor",
+    "Address1": "640 E St",
+    "City": "Chula Vista",
+    "State": "CA",
+    "Zip": "91910"
+  },
+  {
+    "LocationName": "BLUE AGAVE",
+    "Address1": "185 E. SANTA CLARA ST",
+    "City": "VENTURA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Big K Market",
+    "Address1": "7245 Broadway",
+    "City": "Lemon Grove",
+    "State": "CA",
+    "Zip": "91945"
+  },
+  {
+    "LocationName": "Liquor Corner Inc",
+    "Address1": "465 Broadway",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "BLUE AGAVE",
+    "Address1": "185 E. SANTA CLARA ST",
+    "City": "VENTURA",
+    "State": "CA",
+    "Zip": "93001"
+  },
+  {
+    "LocationName": "WINE AND LIQUOR DEPOT",
+    "Address1": "16938 SATICOY ST.",
+    "City": "VAN NUYS",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "COUNTRY WINE AND SPIRITS",
+    "Address1": "10601 TIERRA SANTA BLVD",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Chip's Liquor",
+    "Address1": "1926 Garnet Ave.",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Bobar Liquor 5",
+    "Address1": "4380 main st",
+    "City": "Chula Vista",
+    "State": "CA",
+    "Zip": "91911"
+  },
+  {
+    "LocationName": "Crazy Naz Wine , Spirits, & More",
+    "Address1": "1450 W mission RD Suite P&Q",
+    "City": "San Marcos",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Bottle Shop Montecito",
+    "Address1": "1208 Coast Village Rd",
+    "City": "Montecito",
+    "State": "CA",
+    "Zip": "93108"
+  },
+  {
+    "LocationName": "Emerald spirits fine wines & liquor",
+    "Address1": "1825 W Vista Way",
+    "City": "Vista",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "BRANDYWINE LIQUOR",
+    "Address1": "1655 BRANDYWINE AVE # A",
+    "City": "CHULA VISTA",
+    "State": "CA",
+    "Zip": "91911"
+  },
+  {
+    "LocationName": "Emilio's Beverage Warehouse",
+    "Address1": "17251 Lakewood Blvd.",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Canyon Liquor",
+    "Address1": "19058 La Puente Rd",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": "91792"
+  },
+  {
+    "LocationName": "La presa liquor",
+    "Address1": "9307 jamacha blvd",
+    "City": "Spring Valley",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "MISSION TRAILS WINE & SPIRITS",
+    "Address1": "8181 Mission Gorge Rd A",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Carnival  Supermarket",
+    "Address1": "870 3rd ave",
+    "City": "Chula Vista",
+    "State": "CA",
+    "Zip": "91911"
+  },
+  {
+    "LocationName": "OLD TOWN LIQUOR & MARKET - Moorpark",
+    "Address1": "411 E High St",
+    "City": "Moorpark",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Chip's Liquor",
+    "Address1": "1926 Garnet Ave.",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92109"
+  },
+  {
+    "LocationName": "THE WINE BANK",
+    "Address1": "363 5TH AVE #100",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "The Liquor Wine & Grotto",
+    "Address1": "1271 Coast Village Road",
+    "City": "Santa Barbara",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "CHOICE LIQUOR",
+    "Address1": "14044 Whittier Blvd",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90605"
+  },
+  {
+    "LocationName": "WINE AND LIQUOR DEPOT",
+    "Address1": "16938 SATICOY ST.",
+    "City": "VAN NUYS",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Christies Liquor, Inc.",
+    "Address1": "3040 FOOTHILL BLVD",
+    "City": "LA CRESCENTA",
+    "State": "CA",
+    "Zip": "91214"
+  },
+  {
+    "LocationName": "5 Boys Liquor",
+    "Address1": "8025 Tippecanoe Ave",
+    "City": "San Bernardino",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Chucks  Liquor",
+    "Address1": "467 E Foothill Blvd",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": "92376"
+  },
+  {
+    "LocationName": "Citrus Liquor",
+    "Address1": "16056 Valley Blvd",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": "92335"
+  },
+  {
+    "LocationName": "Arrow Liquor",
+    "Address1": "18150 Arrow BlvdUnit B",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "COUNTRY WINE AND SPIRITS",
+    "Address1": "10601 TIERRA SANTA BLVD",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": "92124"
+  },
+  {
+    "LocationName": "BRANDYWINE LIQUOR",
+    "Address1": "1655 BRANDYWINE AVE # A",
+    "City": "CHULA VISTA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "BestBev Liquor",
+    "Address1": "640 E St",
+    "City": "Chula Vista",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Bobar Liquor 5",
+    "Address1": "4380 main st",
+    "City": "Chula Vista",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Bottle Shop Montecito",
+    "Address1": "1208 Coast Village Rd",
+    "City": "Montecito",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "CHOICE LIQUOR",
+    "Address1": "14044 Whittier Blvd",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Del Mesa Liquor",
+    "Address1": "6090 Friars Rd",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92108"
+  },
+  {
+    "LocationName": "COUNTRY WINE AND SPIRITS",
+    "Address1": "10601 TIERRA SANTA BLVD",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "E Food Stores and Liquor",
+    "Address1": "997 W San Marcos Blvd.",
+    "City": "San Marcos",
+    "State": "CA",
+    "Zip": "92078"
+  },
+  {
+    "LocationName": "Canyon Liquor",
+    "Address1": "19058 La Puente Rd",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Egg Market",
+    "Address1": "-No Value-",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": "-No Value-"
+  },
+  {
+    "LocationName": "Carnival  Supermarket",
+    "Address1": "870 3rd ave",
+    "City": "Chula Vista",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "EL AGAVE RESTAURANT",
+    "Address1": "2304 SAN DIEGO AVE #B",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": "92110"
+  },
+  {
+    "LocationName": "Chip's Liquor",
+    "Address1": "1926 Garnet Ave.",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Christies Liquor, Inc.",
+    "Address1": "3040 FOOTHILL BLVD",
+    "City": "LA CRESCENTA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Chucks  Liquor",
+    "Address1": "467 E Foothill Blvd",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "EL PELADITO",
+    "Address1": "2130 BIRCH ROAD",
+    "City": "CHULA VISTA",
+    "State": "CA",
+    "Zip": "91915"
+  },
+  {
+    "LocationName": "Citrus Liquor",
+    "Address1": "16056 Valley Blvd",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "El Toro Market",
+    "Address1": "2868 W Rialto Ave",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": "92376"
+  },
+  {
+    "LocationName": "Crazy Naz Wine , Spirits, & More",
+    "Address1": "1450 W mission RD Suite P&Q",
+    "City": "San Marcos",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Emerald spirits fine wines & liquor",
+    "Address1": "1825 W Vista Way",
+    "City": "Vista",
+    "State": "CA",
+    "Zip": "92083"
+  },
+  {
+    "LocationName": "Del Mesa Liquor",
+    "Address1": "6090 Friars Rd",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "E Food Stores and Liquor",
+    "Address1": "997 W San Marcos Blvd.",
+    "City": "San Marcos",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Emilio's Beverage Warehouse",
+    "Address1": "17251 Lakewood Blvd.",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": "90706"
+  },
+  {
+    "LocationName": "EL CERRITO MARKET & LIQUOR",
+    "Address1": "19480 E. ONTARIO AVE#C",
+    "City": "CORONA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Fireside Cellars",
+    "Address1": "1421 Montana Ave",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90402"
+  },
+  {
+    "LocationName": "EL PELADITO",
+    "Address1": "2130 BIRCH ROAD",
+    "City": "CHULA VISTA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Frank's Wine & Spirits",
+    "Address1": "10559 Santa Monica Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90025"
+  },
+  {
+    "LocationName": "Egg Market",
+    "Address1": "-No Value-",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "El Toro Market",
+    "Address1": "2868 W Rialto Ave",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Garden Grove Liquor",
+    "Address1": "365 Iowa AveUnit A",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": "92507"
+  },
+  {
+    "LocationName": "Emerald spirits fine wines & liquor",
+    "Address1": "1825 W Vista Way",
+    "City": "Vista",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "GROG SHOP",
+    "Address1": "-No Value-",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": "-No Value-"
+  },
+  {
+    "LocationName": "Frank's Wine & Spirits",
+    "Address1": "10559 Santa Monica Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Hacienda Liquor",
+    "Address1": "2047 S Hacienda Blvd",
+    "City": "Hacienda Heights",
+    "State": "CA",
+    "Zip": "91745"
+  },
+  {
+    "LocationName": "Garden Grove Liquor",
+    "Address1": "365 Iowa AveUnit A",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Hilltop Liquor - Chula Vista",
+    "Address1": "1419 Hilltop Drive #A",
+    "City": "Chula VIsta",
+    "State": "CA",
+    "Zip": "91911"
+  },
+  {
+    "LocationName": "Hacienda Liquor",
+    "Address1": "2047 S Hacienda Blvd",
+    "City": "Hacienda Heights",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Hilltop Liquor - Chula Vista",
+    "Address1": "1419 Hilltop Drive #A",
+    "City": "Chula VIsta",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Hilltop market",
+    "Address1": "1500 hilltop dr",
+    "City": "Chula vista",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Hollywood Roosevelt Hotel",
+    "Address1": "7000 Hollywood Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90028"
+  },
+  {
+    "LocationName": "Hollywood Roosevelt Hotel",
+    "Address1": "7000 Hollywood Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "House of Ambrose Wine & Spirits",
+    "Address1": "3331 BARHAM BLVD",
+    "City": "LOS ANGELES",
+    "State": "CA",
+    "Zip": "90068"
+  },
+  {
+    "LocationName": "House of Ambrose Wine & Spirits",
+    "Address1": "3331 BARHAM BLVD",
+    "City": "LOS ANGELES",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "JNJ Liquor",
+    "Address1": "3216 Baldwin Park BlvdUnit A",
+    "City": "Baldwin Park",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Jhony Liquor",
+    "Address1": "9001 Atlantic Ave",
+    "City": "Southgate",
+    "State": "CA",
+    "Zip": "90280"
+  },
+  {
+    "LocationName": "Jhony Liquor",
+    "Address1": "9001 Atlantic Ave",
+    "City": "Southgate",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "John & Petes Fine Wine and Spirits",
+    "Address1": "621 North La Cienega Boulevard",
+    "City": "West Hollywood",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "JNJ Liquor",
+    "Address1": "3216 Baldwin Park BlvdUnit A",
+    "City": "Baldwin Park",
+    "State": "CA",
+    "Zip": "91706"
+  },
+  {
+    "LocationName": "KEG N BOTTLE ISLA VISTA",
+    "Address1": "915 EMBARCADERO DEL MAR",
+    "City": "ISLA VISTA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "John & Petes Fine Wine and Spirits",
+    "Address1": "621 North La Cienega Boulevard",
+    "City": "West Hollywood",
+    "State": "CA",
+    "Zip": "90069"
+  },
+  {
+    "LocationName": "Kings Market Liquor",
+    "Address1": "7907 Cajon Rd.",
+    "City": "El Cajon",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "KEG N BOTTLE ISLA VISTA",
+    "Address1": "915 EMBARCADERO DEL MAR",
+    "City": "ISLA VISTA",
+    "State": "CA",
+    "Zip": "93117"
+  },
+  {
+    "LocationName": "LA CHUPERIA CANTINA",
+    "Address1": "118 W. MAIN ST",
+    "City": "ALHAMBRA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Kings Market Liquor",
+    "Address1": "7907 Cajon Rd.",
+    "City": "El Cajon",
+    "State": "CA",
+    "Zip": "92021"
+  },
+  {
+    "LocationName": "LAGO COUNTRY",
+    "Address1": "3440 DEL LAGO BLVD STE N",
+    "City": "ESCONDIDO",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "LA BODEGA WINE & SPIRITS",
+    "Address1": "3512 CENTRAL AVE",
+    "City": "RIVERSIDE",
+    "State": "CA",
+    "Zip": "92506"
+  },
+  {
+    "LocationName": "LIQUOR AND BASKET",
+    "Address1": "4454 VAN NUYS BLVD #1",
+    "City": "SHERMAN OAKS",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "LA CHUPERIA CANTINA",
+    "Address1": "118 W. MAIN ST",
+    "City": "ALHAMBRA",
+    "State": "CA",
+    "Zip": "91801-3511"
+  },
+  {
+    "LocationName": "LIQUOR CELLAR",
+    "Address1": "150 W. CHANNEL ISLAND BLVD",
+    "City": "OXNARD",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "La presa liquor",
+    "Address1": "9307 jamacha blvd",
+    "City": "Spring Valley",
+    "State": "CA",
+    "Zip": "91977"
+  },
+  {
+    "LocationName": "LIQUOR MART",
+    "Address1": "13583 WHITTIER BLVD",
+    "City": "WHITTIER",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "La presa liquor",
+    "Address1": "9307 jamacha blvd",
+    "City": "Spring Valley",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Linden Market",
+    "Address1": "2704 N Linden Ave",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "LAGO COUNTRY",
+    "Address1": "3440 DEL LAGO BLVD STE N",
+    "City": "ESCONDIDO",
+    "State": "CA",
+    "Zip": "92029"
+  },
+  {
+    "LocationName": "Liquor Corner Inc",
+    "Address1": "465 Broadway",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Linden Market",
+    "Address1": "2704 N Linden Ave",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": "92377"
+  },
+  {
+    "LocationName": "Liquor Land",
+    "Address1": "3580 Long Beach Blvd",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "LIQUOR AND BASKET",
+    "Address1": "4454 VAN NUYS BLVD #1",
+    "City": "SHERMAN OAKS",
+    "State": "CA",
+    "Zip": "91403"
+  },
+  {
+    "LocationName": "MISSION TRAILS WINE & SPIRITS",
+    "Address1": "8181 Mission Gorge Rd A",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "LIQUOR CELLAR",
+    "Address1": "150 W. CHANNEL ISLAND BLVD",
+    "City": "OXNARD",
+    "State": "CA",
+    "Zip": "93036"
+  },
+  {
+    "LocationName": "Martins Liquor",
+    "Address1": "14319 E 14TH ST",
+    "City": "San Leandro",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Mike's Liquor",
+    "Address1": "178 E Baseline Rd",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Liquor Corner Inc",
+    "Address1": "465 Broadway",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91204"
+  },
+  {
+    "LocationName": "Municipal Taco",
+    "Address1": "2002 S coast hwy",
+    "City": "oceanside",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Liquor Corner Inc",
+    "Address1": "465 Broadway",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91204"
+  },
+  {
+    "LocationName": "OLD TOWN LIQUOR & MARKET - Moorpark",
+    "Address1": "411 E High St",
+    "City": "Moorpark",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "PLA-BOY LIQUOR",
+    "Address1": "11555 Ventura Blvd",
+    "City": "Studio City",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Pina",
+    "Address1": "345 S. Coast Highway 101",
+    "City": "Encinitas",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Liquor Land",
+    "Address1": "3580 Long Beach Blvd",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Proabition",
+    "Address1": "3597 Main St",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Liquor Land",
+    "Address1": "3580 Long Beach Blvd",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "RANCHO LIQUOR - Temecula",
+    "Address1": "28322 Old Town Front St",
+    "City": "Temecula",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "LIQUOR MART",
+    "Address1": "13583 WHITTIER BLVD",
+    "City": "WHITTIER",
+    "State": "CA",
+    "Zip": "90605"
+  },
+  {
+    "LocationName": "Regal Wine And Spirits",
+    "Address1": "3930 Foothill Blvd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Remedy Liquor",
+    "Address1": "1700 W Glenoaks Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Martins Liquor",
+    "Address1": "14319 E 14TH ST",
+    "City": "San Leandro",
+    "State": "CA",
+    "Zip": "94578"
+  },
+  {
+    "LocationName": "Remedy Liquor & Wine Cellar",
+    "Address1": "1700 W. Glenoaks Blvd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Mike's Liquor",
+    "Address1": "178 E Baseline Rd",
+    "City": "Rialto",
+    "State": "CA",
+    "Zip": "92376"
+  },
+  {
+    "LocationName": "Robert Burns Wines",
+    "Address1": "157 N Robertson Blvd",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "MISSION TRAILS WINE & SPIRITS",
+    "Address1": "8181 Mission Gorge Rd A",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92120"
+  },
+  {
+    "LocationName": "Samis iii",
+    "Address1": "17080 Foothill BlvdUnit A",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "THE WINE BANK",
+    "Address1": "363 5TH AVE #100",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "TOPLINE WINE &SPIRITS",
+    "Address1": "4718 San Fernando Rd",
+    "City": "GLENDALE",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "TROY LIQUOR",
+    "Address1": "5956 FALLBROOK AVE",
+    "City": "WOODLAND HILLS",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Municipal Taco",
+    "Address1": "2002 S coast hwy",
+    "City": "oceanside",
+    "State": "CA",
+    "Zip": "92054"
+  },
+  {
+    "LocationName": "The Liquor Wine & Grotto",
+    "Address1": "1271 Coast Village Road",
+    "City": "Santa Barbara",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "OLD TOWN LIQUOR & MARKET - Moorpark",
+    "Address1": "411 E High St",
+    "City": "Moorpark",
+    "State": "CA",
+    "Zip": "93021"
+  },
+  {
+    "LocationName": "Today Wine & Spirits",
+    "Address1": "333 N Verdugo Rd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Topline Wine & Spirit",
+    "Address1": "4718 San Fernando Rd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Pina",
+    "Address1": "345 S. Coast Highway 101",
+    "City": "Encinitas",
+    "State": "CA",
+    "Zip": "92024"
+  },
+  {
+    "LocationName": "University Village Market",
+    "Address1": "3796 Watkins Dr",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "PLA-BOY LIQUOR",
+    "Address1": "11555 Ventura Blvd",
+    "City": "Studio City",
+    "State": "CA",
+    "Zip": "91604"
+  },
+  {
+    "LocationName": "VILLAGE LIQUOR & MARKET",
+    "Address1": "211 E Olive Ave",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Proabition",
+    "Address1": "3597 Main St",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": "92501"
+  },
+  {
+    "LocationName": "Vendome  wine $ spirits",
+    "Address1": "3115 Yorba Linda BlvdFullerton, CA  92831United States",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "RANCHO LIQUOR - Temecula",
+    "Address1": "28322 Old Town Front St",
+    "City": "Temecula",
+    "State": "CA",
+    "Zip": "92590"
+  },
+  {
+    "LocationName": "Vendome Arcadia",
+    "Address1": "103 E Santa Clara St",
+    "City": "Arcadia",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "RED EYE LIQUOR",
+    "Address1": "-No Value-",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": "-No Value-"
+  },
+  {
+    "LocationName": "Vendome Beverly Hills",
+    "Address1": "270 S. Robertson Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Regal Wine And Spirits",
+    "Address1": "3930 Foothill Blvd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91214"
+  },
+  {
+    "LocationName": "Vendome Wine & Spirits - Beverly Hills",
+    "Address1": "270 S Robertson Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Remedy Liquor",
+    "Address1": "1700 W Glenoaks Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "91201"
+  },
+  {
+    "LocationName": "WINE AND LIQUOR DEPOT",
+    "Address1": "16938 SATICOY ST.",
+    "City": "VAN NUYS",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Remedy Liquor & Wine Cellar",
+    "Address1": "1700 W. Glenoaks Blvd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91201"
+  },
+  {
+    "LocationName": "Yucca supermarket",
+    "Address1": "1815 N Cahuenga Blvd",
+    "City": "Los Angles",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "AM PM",
+    "Address1": "-No Value-",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Big K Market",
+    "Address1": "7245 Broadway",
+    "City": "Lemon Grove",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Samis iii",
+    "Address1": "17080 Foothill BlvdUnit A",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": "92335"
+  },
+  {
+    "LocationName": "COUNTRY WINE AND SPIRITS",
+    "Address1": "10601 TIERRA SANTA BLVD",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "The Liquor Wine & Grotto",
+    "Address1": "1271 Coast Village Road",
+    "City": "Santa Barbara",
+    "State": "CA",
+    "Zip": "93108"
+  },
+  {
+    "LocationName": "Canyon Liquor",
+    "Address1": "19058 La Puente Rd",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "EL AGAVE RESTAURANT",
+    "Address1": "2304 SAN DIEGO AVE #B",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "EL CERRITO MARKET & LIQUOR",
+    "Address1": "19480 E. ONTARIO AVE#C",
+    "City": "CORONA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "THE WINE BANK",
+    "Address1": "363 5TH AVE #100",
+    "City": "SAN DIEGO",
+    "State": "CA",
+    "Zip": "92101"
+  },
+  {
+    "LocationName": "Fireside Cellars",
+    "Address1": "1421 Montana Ave",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Frank's Wine & Spirits",
+    "Address1": "10559 Santa Monica Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Today Wine & Spirits",
+    "Address1": "333 N Verdugo Rd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91206"
+  },
+  {
+    "LocationName": "GROG SHOP",
+    "Address1": "-No Value-",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Hilltop Liquor - Chula Vista",
+    "Address1": "1419 Hilltop Drive #A",
+    "City": "Chula VIsta",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Topline Wine & Spirit",
+    "Address1": "4718 San Fernando Rd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "91204"
+  },
+  {
+    "LocationName": "House of Ambrose Wine & Spirits",
+    "Address1": "3331 BARHAM BLVD",
+    "City": "LOS ANGELES",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "TOPLINE WINE &SPIRITS",
+    "Address1": "4718 San Fernando Rd",
+    "City": "GLENDALE",
+    "State": "CA",
+    "Zip": "91204"
+  },
+  {
+    "LocationName": "Jhony Liquor",
+    "Address1": "9001 Atlantic Ave",
+    "City": "Southgate",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "TROY LIQUOR",
+    "Address1": "5956 FALLBROOK AVE",
+    "City": "WOODLAND HILLS",
+    "State": "CA",
+    "Zip": "91367"
+  },
+  {
+    "LocationName": "LA BODEGA WINE & SPIRITS",
+    "Address1": "3512 CENTRAL AVE",
+    "City": "RIVERSIDE",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "University Village Market",
+    "Address1": "3796 Watkins Dr",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": "92507"
+  },
+  {
+    "LocationName": "LIQUOR CELLAR",
+    "Address1": "150 W. CHANNEL ISLAND BLVD",
+    "City": "OXNARD",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Vendome  wine $ spirits",
+    "Address1": "3115 Yorba Linda BlvdFullerton, CA  92831United States",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": "-No Value-"
+  },
+  {
+    "LocationName": "LIQUOR MART",
+    "Address1": "13583 WHITTIER BLVD",
+    "City": "WHITTIER",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Vendome Arcadia",
+    "Address1": "103 E Santa Clara St",
+    "City": "Arcadia",
+    "State": "CA",
+    "Zip": "91006"
+  },
+  {
+    "LocationName": "La presa liquor",
+    "Address1": "9307 jamacha blvd",
+    "City": "Spring Valley",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Vendome Beverly Hills",
+    "Address1": "270 S. Robertson Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90211"
+  },
+  {
+    "LocationName": "Liquor Land",
+    "Address1": "3580 Long Beach Blvd",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "MISSION TRAILS WINE & SPIRITS",
+    "Address1": "8181 Mission Gorge Rd A",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "RED EYE LIQUOR",
+    "Address1": "-No Value-",
+    "City": "-No Value-",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Robert Burns Wines",
+    "Address1": "157 N Robertson Blvd",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Vendome Wine & Spirits- Studio City",
+    "Address1": "11555 Ventura Blvd.",
+    "City": "Studio City",
+    "State": "CA",
+    "Zip": "91604"
+  },
+  {
+    "LocationName": "The Liquor Wine & Grotto",
+    "Address1": "1271 Coast Village Road",
+    "City": "Santa Barbara",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Victory Liquor Market",
+    "Address1": "564 N Garfield Ave",
+    "City": "Montebello",
+    "State": "CA",
+    "Zip": "90640"
+  },
+  {
+    "LocationName": "Today Wine & Spirits",
+    "Address1": "333 N Verdugo Rd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "VILLAGE LIQUOR & MARKET",
+    "Address1": "211 E Olive Ave",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": "91502"
+  },
+  {
+    "LocationName": "Vendome Beverly Hills",
+    "Address1": "270 S. Robertson Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "WINE AND LIQUOR DEPOT",
+    "Address1": "16938 SATICOY ST.",
+    "City": "VAN NUYS",
+    "State": "CA",
+    "Zip": "91406"
+  },
+  {
+    "LocationName": "Vendome Wine & Spirits - Beverly Hills",
+    "Address1": "270 S Robertson Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Vendome Wine & Spirits- Studio City",
+    "Address1": "11555 Ventura Blvd.",
+    "City": "Studio City",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Victory Liquor Market",
+    "Address1": "564 N Garfield Ave",
+    "City": "Montebello",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "BLUE AGAVE",
+    "Address1": "185 E. SANTA CLARA ST",
+    "City": "VENTURA",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Liquor Corner Inc",
+    "Address1": "465 Broadway",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "Yucca supermarket",
+    "Address1": "1815 N Cahuenga Blvd",
+    "City": "Los Angles",
+    "State": "CA",
+    "Zip": "90028"
+  },
+  {
+    "LocationName": "WINE AND LIQUOR DEPOT",
+    "Address1": "16938 SATICOY ST.",
+    "City": "VAN NUYS",
+    "State": "CA",
+    "Zip": ""
+  },
+  {
+    "LocationName": "A & T Liquor",
+    "Address1": "12202 Downey ave",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "Adam's Fine Wines and Liquors",
+    "Address1": "1306 1/2 S. Pacific Coast Hwy",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Agaves",
+    "Address1": "200 Pine Ave",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Alegria Cafe & Tapas Bar",
+    "Address1": "115 Pine Ave, Ste. 130",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Alpine Liquor",
+    "Address1": "2262 Alpine Blvd",
+    "City": "Alpine",
+    "State": "CA",
+    "Zip": "91901"
+  },
+  {
+    "LocationName": "Ambassador Liquor",
+    "Address1": "1642 E. 4th St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Amor Y Tacos",
+    "Address1": "13333 South Street",
+    "City": "Cerritos",
+    "State": "CA",
+    "Zip": "90703"
+  },
+  {
+    "LocationName": "ANEPALCOS CAFE",
+    "Address1": "3737 W CHAPMAN AVE",
+    "City": "ORANGE",
+    "State": "CA",
+    "Zip": "92868"
+  },
+  {
+    "LocationName": "Ans Liquor",
+    "Address1": "1196 S. Lorena St",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "Artesia Liquor",
+    "Address1": "13315 Artesia Blvd",
+    "City": "Cerritos",
+    "State": "CA",
+    "Zip": "90703"
+  },
+  {
+    "LocationName": "Avilas El Ranchito (Laguna Niguel)",
+    "Address1": "27941 La Paz Rd",
+    "City": "Laguna Niguel",
+    "State": "CA",
+    "Zip": "92677"
+  },
+  {
+    "LocationName": "Baldyb_x0019_s Market",
+    "Address1": "9688 N. Phelan rd",
+    "City": "phelan",
+    "State": "CA",
+    "Zip": "92371"
+  },
+  {
+    "LocationName": "Base Liquor",
+    "Address1": "3201 National Ave",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92113"
+  },
+  {
+    "LocationName": "Beach Liquor and Mini Mart",
+    "Address1": "6771 Beach Blvd",
+    "City": "Buena Park",
+    "State": "CA",
+    "Zip": "90621"
+  },
+  {
+    "LocationName": "Ben's Food N Liquor",
+    "Address1": "686 Benicia Rd",
+    "City": "Vallejo",
+    "State": "CA",
+    "Zip": "94591"
+  },
+  {
+    "LocationName": "Beverage Warehouse",
+    "Address1": "4935 McConnell Ave",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90066"
+  },
+  {
+    "LocationName": "Beverly Hills Liquor/Wine & Deli",
+    "Address1": "8318 Wilshire Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90211"
+  },
+  {
+    "LocationName": "Bevmo  #061 (Pinole)",
+    "Address1": "1220 Fitzgerald Drive",
+    "City": "Pinole",
+    "State": "CA",
+    "Zip": "94564"
+  },
+  {
+    "LocationName": "BevMo  #076 (Palmdale)",
+    "Address1": "39626 10th St.",
+    "City": "Palmdale",
+    "State": "CA",
+    "Zip": "93551"
+  },
+  {
+    "LocationName": "BevMo #003 (San Francisco)",
+    "Address1": "201 Bayshore Blvd",
+    "City": "San Francisco",
+    "State": "CA",
+    "Zip": "94124"
+  },
+  {
+    "LocationName": "BevMo #005 (Oakland)",
+    "Address1": "525 Embarcadero",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip": "94607"
+  },
+  {
+    "LocationName": "BevMo #0136 (Los Angeles)",
+    "Address1": "330 N. La Cienega Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90408"
+  },
+  {
+    "LocationName": "Bevmo #031 (Orange)",
+    "Address1": "2000 N TUSTIN ST",
+    "City": "Orange",
+    "State": "CA",
+    "Zip": "92865"
+  },
+  {
+    "LocationName": "BevMo #037 (Huntington Beach)",
+    "Address1": "16672 Beach Blvd, Suite K",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92647"
+  },
+  {
+    "LocationName": "BevMo #038 (Van Nuys)",
+    "Address1": "5820 Sepulvedo Blvd",
+    "City": "Van Nuys",
+    "State": "CA",
+    "Zip": "91411"
+  },
+  {
+    "LocationName": "BEVMO #042 (Antioch)",
+    "Address1": "5859 LONE TREE WAY # C",
+    "City": "Antioch",
+    "State": "CA",
+    "Zip": "94509"
+  },
+  {
+    "LocationName": "BevMo #043 (West Hollywood)",
+    "Address1": "7100 Santa Monica Blvd",
+    "City": "West Hollywood",
+    "State": "CA",
+    "Zip": "90046"
+  },
+  {
+    "LocationName": "Bevmo #048 (Redlands)",
+    "Address1": "27588 W LUGONIA AVE STE A",
+    "City": "Redlands",
+    "State": "CA",
+    "Zip": "92374"
+  },
+  {
+    "LocationName": "Bevmo #051 (Pasadena)",
+    "Address1": "885 S ARROYO PKWY",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91105"
+  },
+  {
+    "LocationName": "Bevmo #063 (Temecula)",
+    "Address1": "39672 WINCHESTER RD",
+    "City": "Temecula",
+    "State": "CA",
+    "Zip": "92591"
+  },
+  {
+    "LocationName": "Bevmo #065 (Vacaville)",
+    "Address1": "1621 E MONTE VISTA AVE # D",
+    "City": "Vacaville",
+    "State": "CA",
+    "Zip": "95688"
+  },
+  {
+    "LocationName": "BevMo #068 (Cypress)",
+    "Address1": "6820 Katella Avenue",
+    "City": "Cypress",
+    "State": "CA",
+    "Zip": "90630"
+  },
+  {
+    "LocationName": "Bevmo #078 (Mira Loma)",
+    "Address1": "6477 PATS RANCH RD",
+    "City": "Mira Loma",
+    "State": "CA",
+    "Zip": "91752"
+  },
+  {
+    "LocationName": "BevMo #080 (Long Beach)",
+    "Address1": "6521 E. Pacific Coast Hwy",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Bevmo #111 (Manhattan Beach)",
+    "Address1": "1700 ROSECRANS AVE STE 100C",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Bevmo #113 (Torrnace)",
+    "Address1": "2533 PACIFIC COAST HWY STE A",
+    "City": "TORRANCE",
+    "State": "CA",
+    "Zip": "90505"
+  },
+  {
+    "LocationName": "Bevmo #114 (Murrieta)",
+    "Address1": "24390 VILLAGE WALK PL",
+    "City": "MURRIETA",
+    "State": "CA",
+    "Zip": "92562"
+  },
+  {
+    "LocationName": "Bevmo #121 (Los Angeles)",
+    "Address1": "10984 W SANTA MONICA BLVD",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90025"
+  },
+  {
+    "LocationName": "Bevmo #123 (Santa Monica)",
+    "Address1": "3212 WILSHIRE BLVD",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90403"
+  },
+  {
+    "LocationName": "Bevmo #126 (San Diego)",
+    "Address1": "3210 ROSECRANS PL",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92110"
+  },
+  {
+    "LocationName": "BevMo #132 (East Pasadena)",
+    "Address1": "3730 E Foothill Blvd.",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91107"
+  },
+  {
+    "LocationName": "BevMo #137 (Chula Vista)",
+    "Address1": "2237 Otay Lakes Rd",
+    "City": "Chula Vista",
+    "State": "CA",
+    "Zip": "91915"
+  },
+  {
+    "LocationName": "BevMo #158 (San Leandro)",
+    "Address1": "15100 Hesperian blvd",
+    "City": "San Leandro",
+    "State": "CA",
+    "Zip": "94578"
+  },
+  {
+    "LocationName": "Bevmo #159 (Moreno Valley)",
+    "Address1": "12625 FREDERICK ST STE G-2",
+    "City": "Moreno Valley",
+    "State": "CA",
+    "Zip": "92553"
+  },
+  {
+    "LocationName": "Bevmo #161 (Culver City)",
+    "Address1": "5634 SEPULVEDA BLVD",
+    "City": "CULVER CITY",
+    "State": "CA",
+    "Zip": "90230"
+  },
+  {
+    "LocationName": "Bevmo #167 (Redondo Beach)",
+    "Address1": "Bevmo #167 (Redondo Beach) ",
+    "City": "Torrance",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "BevMo #174 (Marina Del Rey)",
+    "Address1": "4214 Lincoln Blvd.",
+    "City": "Marina Del Rey",
+    "State": "CA",
+    "Zip": "90292"
+  },
+  {
+    "LocationName": "BevMo #181 (Whittier)",
+    "Address1": "15525 Whittier Blvd.",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90603"
+  },
+  {
+    "LocationName": "BevMo #182 (Lakewood)",
+    "Address1": "4645 Candlewood St",
+    "City": "Lakewood",
+    "State": "CA",
+    "Zip": "90712"
+  },
+  {
+    "LocationName": "Bevmo #186",
+    "Address1": "5212 W WILSHIRE BLVD",
+    "City": "LOS ANGELES",
+    "State": "CA",
+    "Zip": "90036"
+  },
+  {
+    "LocationName": "BEVMO (Anaheim)",
+    "Address1": "5717 E SANTA ANA CANYON RD",
+    "City": "Anaheim",
+    "State": "CA",
+    "Zip": "92807"
+  },
+  {
+    "LocationName": "BevMo (Costa Mesa)",
+    "Address1": "1835 Newport Blvd STE  B-129",
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "Bottle Caps & Spirits",
+    "Address1": "11112 Paramount Blvd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Bradleys Fine Wines and Spirits",
+    "Address1": "12932 Newport Ave. Suite 1",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92780"
+  },
+  {
+    "LocationName": "Buena Park Wine & Spirit",
+    "Address1": "7814 Orangethrope Ave",
+    "City": "Buena Park",
+    "State": "CA",
+    "Zip": "90621"
+  },
+  {
+    "LocationName": "Calave",
+    "Address1": "299 S. California Ave.",
+    "City": "Palo Alto",
+    "State": "CA",
+    "Zip": "94306"
+  },
+  {
+    "LocationName": "Calaveras Liquor",
+    "Address1": "105 W Arrow Hwy",
+    "City": "San Dimas",
+    "State": "CA",
+    "Zip": "91773"
+  },
+  {
+    "LocationName": "Candlewood Country Club",
+    "Address1": "14000 TELEGRAPH RD",
+    "City": "WHITTIER",
+    "State": "CA",
+    "Zip": "90604"
+  },
+  {
+    "LocationName": "Canyon City Liquor",
+    "Address1": "424 W Foothill Blvd",
+    "City": "Azusa",
+    "State": "CA",
+    "Zip": "91702"
+  },
+  {
+    "LocationName": "Cee Vee Liquor (Highland)",
+    "Address1": "7750 PALM AVE UNIT 1 & 2",
+    "City": "HIGHLAND",
+    "State": "CA",
+    "Zip": "92346"
+  },
+  {
+    "LocationName": "Champs Liquor #2",
+    "Address1": "8414 Alondra Blvd",
+    "City": "Paramount",
+    "State": "CA",
+    "Zip": "90723"
+  },
+  {
+    "LocationName": "Champs Liquor #5",
+    "Address1": "8007 Florence Ave.",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90240"
+  },
+  {
+    "LocationName": "Chato's Tacos",
+    "Address1": "400 N Broadway",
+    "City": "santa ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "City Market 21",
+    "Address1": "7611 Foothill Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "91042"
+  },
+  {
+    "LocationName": "Clark Liquor",
+    "Address1": "1750 Clark Ave",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90815"
+  },
+  {
+    "LocationName": "Colony House Liquor Inc",
+    "Address1": "22523 PACIFIC COAST HWY",
+    "City": "MALIBU",
+    "State": "CA",
+    "Zip": "90265"
+  },
+  {
+    "LocationName": "Compadres Cantina",
+    "Address1": "2250 S. Euclid ave",
+    "City": "Ontario",
+    "State": "CA",
+    "Zip": "91762"
+  },
+  {
+    "LocationName": "CORKED",
+    "Address1": "4100 ATLANTIC AVE",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Corked Redondo Beach",
+    "Address1": "1520 Aviation Blvd",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90278"
+  },
+  {
+    "LocationName": "Country Corner",
+    "Address1": "3207 Alameda de las Pulgas",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94025"
+  },
+  {
+    "LocationName": "Country Cousins Liquor Jr Market",
+    "Address1": "13040 Glenoaks Blvd",
+    "City": "Sylmar",
+    "State": "CA",
+    "Zip": "91342"
+  },
+  {
+    "LocationName": "Crazy Naz Specialty",
+    "Address1": "1450 W Mission Rd",
+    "City": "San Marcos",
+    "State": "CA",
+    "Zip": "92069"
+  },
+  {
+    "LocationName": "Dal Rae Restaurant",
+    "Address1": "9023 Washington blvd",
+    "City": "5",
+    "State": "CA",
+    "Zip": "90660"
+  },
+  {
+    "LocationName": "Del Rosa Liquor",
+    "Address1": "3480 Del Rosa Ave",
+    "City": "San Bernardino",
+    "State": "CA",
+    "Zip": "92404"
+  },
+  {
+    "LocationName": "Dino's Sports Bar & Grill",
+    "Address1": "17296 Beach Blvd",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92647"
+  },
+  {
+    "LocationName": "Discount liquor ( Cypress)",
+    "Address1": "5362 Lincoln Ave",
+    "City": "Cypress",
+    "State": "CA",
+    "Zip": "90630"
+  },
+  {
+    "LocationName": "Dogz Bar and Grill",
+    "Address1": "5300 E. 2nd st",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Drago Center ",
+    "Address1": "525 S Flower Street",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90071"
+  },
+  {
+    "LocationName": "Edwin Mills by Equator",
+    "Address1": "22 Mills PL",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91105"
+  },
+  {
+    "LocationName": "El Cangrejo Nice",
+    "Address1": "510 Hidden Valley Pkwy",
+    "City": "Corona",
+    "State": "CA",
+    "Zip": "92879"
+  },
+  {
+    "LocationName": "El Cerrito Market Liquor",
+    "Address1": "C & D 19480 E Ontario Ave",
+    "City": "Corona",
+    "State": "CA",
+    "Zip": "92881"
+  },
+  {
+    "LocationName": "El Matador",
+    "Address1": "1768 Newport Blvd",
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "El Pescador",
+    "Address1": "12002 LAKEWOOD BLVD",
+    "City": "DOWNEY",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "El Zarape Restaurant (Cypress)",
+    "Address1": "4197 Ball Road",
+    "City": "Cypress",
+    "State": "CA",
+    "Zip": "90630"
+  },
+  {
+    "LocationName": "Embassy Suites (Downey)",
+    "Address1": "8425 Firestone Blvd.",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Emilio's Beverage Warehouse ",
+    "Address1": "17251 Lakewood Blvd.",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": "90706"
+  },
+  {
+    "LocationName": "Encino Park Liquor",
+    "Address1": "18001 Ventura Blvd",
+    "City": "Encino",
+    "State": "CA",
+    "Zip": "91316"
+  },
+  {
+    "LocationName": "Ernie's Liquors",
+    "Address1": "3870 El Camino Real",
+    "City": "Palo Alto",
+    "State": "CA",
+    "Zip": "94306"
+  },
+  {
+    "LocationName": "Fancy Free Liquor",
+    "Address1": "2001 W Burbank Blvd",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": "91506"
+  },
+  {
+    "LocationName": "Farmacia Malhi",
+    "Address1": "1620 CROWS LANDING RD STE H",
+    "City": "MODESTO",
+    "State": "CA",
+    "Zip": "95358"
+  },
+  {
+    "LocationName": "Festival Hall",
+    "Address1": "220 E. 3rd st",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "Fleenorb_x0019_s Restaurant",
+    "Address1": "400 W 4th st",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "Flyers",
+    "Address1": "1240 E Whitmore Ave",
+    "City": "Ceres",
+    "State": "CA",
+    "Zip": "95307"
+  },
+  {
+    "LocationName": "Forum Liquor",
+    "Address1": "801 S Prairie Ave",
+    "City": "Inglewood",
+    "State": "CA",
+    "Zip": "90301"
+  },
+  {
+    "LocationName": "Fountain Square Liquor",
+    "Address1": "8320 Stewart and Gray Rd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Freeway Liquor",
+    "Address1": "130 N Vincent Ave",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": "91790"
+  },
+  {
+    "LocationName": "Frida Mexican Cuisine (BH)",
+    "Address1": "252 N. Beverly Dr.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90210"
+  },
+  {
+    "LocationName": "G & D Liquor",
+    "Address1": "338 N EUCLID ST",
+    "City": "Fullerton",
+    "State": "CA",
+    "Zip": "92832"
+  },
+  {
+    "LocationName": "G and D Liquor 2",
+    "Address1": "671 S Beach Blvd",
+    "City": "La Habra",
+    "State": "CA",
+    "Zip": "90631"
+  },
+  {
+    "LocationName": "Gaucho Grill",
+    "Address1": "8830 Apollo Way #100",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "Gaucho Grill Buena Park",
+    "Address1": "5980 Orangethorpe Ave",
+    "City": "Buena Park",
+    "State": "CA",
+    "Zip": "90620"
+  },
+  {
+    "LocationName": "Gaucho Grill West Covina",
+    "Address1": "1129 W. West Covina Pkwy",
+    "City": "West Covina",
+    "State": "CA",
+    "Zip": "91790"
+  },
+  {
+    "LocationName": "Glenmark Hotel",
+    "Address1": "1100 N Brand Blvd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91202"
+  },
+  {
+    "LocationName": "Granada Liquor (La Palma)",
+    "Address1": "5501 Orangethorpe Ave",
+    "City": "La Palma",
+    "State": "CA",
+    "Zip": "90623"
+  },
+  {
+    "LocationName": "Green Acres Liquors",
+    "Address1": "10725 Rosedale Hwy",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93312"
+  },
+  {
+    "LocationName": "Griffins Grill",
+    "Address1": "11272 Los Alamitos Blvd",
+    "City": "Los Alamitos",
+    "State": "CA",
+    "Zip": "90720"
+  },
+  {
+    "LocationName": "Hacienda Golf Club",
+    "Address1": "718 East Rd",
+    "City": "La Habra Heights",
+    "State": "CA",
+    "Zip": "90631"
+  },
+  {
+    "LocationName": "Hageman Liquor",
+    "Address1": "9919 Hageman Rd",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93312"
+  },
+  {
+    "LocationName": "Handiest Food Mart",
+    "Address1": "14711 Princeton Ave",
+    "City": "Moorpark",
+    "State": "CA",
+    "Zip": "93021"
+  },
+  {
+    "LocationName": "Handy Liquors (Granada Hills)",
+    "Address1": "10642 Balboa Blvd",
+    "City": "Granada hills",
+    "State": "CA",
+    "Zip": "91344"
+  },
+  {
+    "LocationName": "Happy House Liquor",
+    "Address1": "9218 Alondra Blvd",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": "90706"
+  },
+  {
+    "LocationName": "Happy Liqour",
+    "Address1": "22203 Norwalk Blvd",
+    "City": "Hawaiian Gardens",
+    "State": "CA",
+    "Zip": "90716"
+  },
+  {
+    "LocationName": "Happy Liquor",
+    "Address1": "13759 Leffingwell Rd",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90605"
+  },
+  {
+    "LocationName": "Happy Place Craft Beer W & S",
+    "Address1": "1500 Los Angeles Ave",
+    "City": "Ventura",
+    "State": "CA",
+    "Zip": "93004"
+  },
+  {
+    "LocationName": "Happyb_x0019_s Liquor (El Monte)",
+    "Address1": "10801 Garvey Ave",
+    "City": "El Monte",
+    "State": "CA",
+    "Zip": "91733"
+  },
+  {
+    "LocationName": "Happys Liqour (Long Beach)",
+    "Address1": "4172 N Norse Way",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90808"
+  },
+  {
+    "LocationName": "Happy's Liquor  (Whittier)",
+    "Address1": "12810 Philadelphia St",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90601"
+  },
+  {
+    "LocationName": "HI LITE LIQUOR",
+    "Address1": "14111 BEACH BLVD",
+    "City": "WESTMINSTER",
+    "State": "CA",
+    "Zip": "92683"
+  },
+  {
+    "LocationName": "Hi Time Wine Cellars ",
+    "Address1": "250 Ogle Street",
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "Hilltop Liquor",
+    "Address1": "815 Indianapolis Ave",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Hilltop Liquor (San Diego)",
+    "Address1": "2499 Market Street",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92102"
+  },
+  {
+    "LocationName": "HI-LO LIQUOR MARKET",
+    "Address1": "8582 Washington Blvd",
+    "City": "Culver City",
+    "State": "CA",
+    "Zip": "90232"
+  },
+  {
+    "LocationName": "Hi-Lo Liquor Market (Long Beach)",
+    "Address1": "707 E OCEAN BLVD #A",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Holiday Wine Cellar ",
+    "Address1": "302 W Mission Ave.",
+    "City": "Escondido",
+    "State": "CA",
+    "Zip": "92025"
+  },
+  {
+    "LocationName": "Home of the Hangover",
+    "Address1": "42074 Big Bear Blvd",
+    "City": "CA",
+    "State": "CA",
+    "Zip": "92315"
+  },
+  {
+    "LocationName": "Honor Wine & Spirits",
+    "Address1": "114 S Beverly Dr",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90212"
+  },
+  {
+    "LocationName": "House of Liquor",
+    "Address1": "1008 E Colorado St.",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91205"
+  },
+  {
+    "LocationName": "Isla Cuban-Latin Kitchen",
+    "Address1": "30 Centerpointe Dr Unit 12-13",
+    "City": "La Palma",
+    "State": "CA",
+    "Zip": "90623"
+  },
+  {
+    "LocationName": "Jade Restaurant ",
+    "Address1": "6380 E pacific coast hwy",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Javier's Cantina and Grill",
+    "Address1": "7832 E Coast Highway",
+    "City": "Newport Beach",
+    "State": "CA",
+    "Zip": "92657"
+  },
+  {
+    "LocationName": "Javier's-CA",
+    "Address1": "10250 Santa Monica Blvd #1005",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90067"
+  },
+  {
+    "LocationName": "Javiers-CA (Irvine)",
+    "Address1": "536 SPECTRUM CENTER DR",
+    "City": "IRVINE",
+    "State": "CA",
+    "Zip": "92618"
+  },
+  {
+    "LocationName": "JDb_x0019_S",
+    "Address1": "215 S El Camino Real",
+    "City": "San Clemente",
+    "State": "CA",
+    "Zip": "92762"
+  },
+  {
+    "LocationName": "JJ liquor",
+    "Address1": "14055 Rosedale Hwy",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93314"
+  },
+  {
+    "LocationName": "Johny Liqour (South Gate)",
+    "Address1": "9001 Atlantic Ave",
+    "City": "South Gate",
+    "State": "CA",
+    "Zip": "90280"
+  },
+  {
+    "LocationName": "Johnys Liqour (Montebello)",
+    "Address1": "400 Washington Blvd",
+    "City": "Montebello",
+    "State": "CA",
+    "Zip": "90640"
+  },
+  {
+    "LocationName": "JP23 SMOKEHOUSE BBQ SPORTS RESTAURANT",
+    "Address1": "101 S HARBOR BLVD STE A",
+    "City": "FULLERTON",
+    "State": "CA",
+    "Zip": "92832"
+  },
+  {
+    "LocationName": "Julian's",
+    "Address1": "3116 2nd St.",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90405"
+  },
+  {
+    "LocationName": "Kalaveras",
+    "Address1": "13112 Philadelphia St",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90601"
+  },
+  {
+    "LocationName": "Kalaveras (Montebello)",
+    "Address1": "854 N Garfield Ave",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90640"
+  },
+  {
+    "LocationName": "Kalaveras (Whittier)",
+    "Address1": "13112 Philadelphia St",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90601"
+  },
+  {
+    "LocationName": "Kalaveras - Redondo Beach",
+    "Address1": "228 Avenue I",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Kalaveras - San Pedro",
+    "Address1": "383 W 5th St",
+    "City": "San Pedro",
+    "State": "CA",
+    "Zip": "90731"
+  },
+  {
+    "LocationName": "Kalaveras-CA",
+    "Address1": "16530 Bellflower BLVD",
+    "City": "Bellflower",
+    "State": "CA",
+    "Zip": "90706"
+  },
+  {
+    "LocationName": "Kay N Daves (Pacific Palisades)",
+    "Address1": "15246 W SUNSET BLVD",
+    "City": "PACIFIC PALISADES",
+    "State": "CA",
+    "Zip": "90272"
+  },
+  {
+    "LocationName": "KC Branaghans",
+    "Address1": "5734 E Second St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Kimpton Shorebreak Hotel",
+    "Address1": "500 Pacific Coast Highway",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Kitchen 86",
+    "Address1": "73130 El Paseo",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Zip": "92260"
+  },
+  {
+    "LocationName": "Knolls Restaurant",
+    "Address1": "4354 Atlantic Ave",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Korker Liquor",
+    "Address1": "2229 East Coast HWY",
+    "City": "Corona del Mar",
+    "State": "CA",
+    "Zip": "92625"
+  },
+  {
+    "LocationName": "La Amapola, Inc. ",
+    "Address1": "La Amapola, Inc. ",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90240"
+  },
+  {
+    "LocationName": "La Bodega Wine & Spirits",
+    "Address1": "3512 Central Avenue",
+    "City": "Riverside",
+    "State": "CA",
+    "Zip": "92506"
+  },
+  {
+    "LocationName": "LA CASA DEL COCINERO",
+    "Address1": "14323 WHITTIER BLVD",
+    "City": "WHITTIER",
+    "State": "CA",
+    "Zip": "90605"
+  },
+  {
+    "LocationName": "La Cumbre C C",
+    "Address1": "4015 Via Laguna",
+    "City": "Santa Barbara",
+    "State": "CA",
+    "Zip": "93110"
+  },
+  {
+    "LocationName": "La Reina Markets",
+    "Address1": "909 N. Tustin St.",
+    "City": "Orange",
+    "State": "CA",
+    "Zip": "92867"
+  },
+  {
+    "LocationName": "La Vida Cantina",
+    "Address1": "1870 HARBOR BLVD",
+    "City": "COSTA MESA",
+    "State": "CA",
+    "Zip": "92627"
+  },
+  {
+    "LocationName": "Las Perlas ",
+    "Address1": "Las Perlas ",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90014"
+  },
+  {
+    "LocationName": "Lindley Liquor (Reseda)",
+    "Address1": "7137 LINDLEY AVE",
+    "City": "RESEDA",
+    "State": "CA",
+    "Zip": "91335"
+  },
+  {
+    "LocationName": "Lindy's Liquor",
+    "Address1": "11720 Aviation Blvd",
+    "City": "Inglewood",
+    "State": "CA",
+    "Zip": "90304"
+  },
+  {
+    "LocationName": "Liquid Wine & Spirits (Chatsworth)",
+    "Address1": "10100 Topanga Canyon Blvd",
+    "City": "Chatsworth",
+    "State": "CA",
+    "Zip": "91311"
+  },
+  {
+    "LocationName": "Liquor Paradise",
+    "Address1": "10277 Foothill Blvd",
+    "City": "Rancho Cucamonga",
+    "State": "CA",
+    "Zip": "91730"
+  },
+  {
+    "LocationName": "Liquorama ",
+    "Address1": "Liquorama ",
+    "City": "Upland",
+    "State": "CA",
+    "Zip": "91786"
+  },
+  {
+    "LocationName": "Little Sister Redondo Beach",
+    "Address1": "247 Avenida Del Norte",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Lock and Key",
+    "Address1": "11033 Downey Avenue",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Los Amigos Bar and Grill",
+    "Address1": "2825 W. Olive Ave",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": "91505"
+  },
+  {
+    "LocationName": "LOS BALCONES -CA",
+    "Address1": "1360 Vine St",
+    "City": "LOS ANGELES",
+    "State": "CA",
+    "Zip": "90028"
+  },
+  {
+    "LocationName": "Los Toros",
+    "Address1": "221 main st",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Macb_x0019_s Liquor",
+    "Address1": "5340 E Second St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Madre",
+    "Address1": "1261 Cabrillo Ave #100",
+    "City": "Torrrance",
+    "State": "CA",
+    "Zip": "90501"
+  },
+  {
+    "LocationName": "Maere!",
+    "Address1": "1261 Cabrillo Ave #100",
+    "City": "Torrrance",
+    "State": "CA",
+    "Zip": "90501"
+  },
+  {
+    "LocationName": "Malibu Liquor",
+    "Address1": "4937 LAS VIRGENES RD",
+    "City": "CALABASAS",
+    "State": "CA",
+    "Zip": "91302"
+  },
+  {
+    "LocationName": "Mama Por Dios",
+    "Address1": "12225 FOOTHILL BLVD",
+    "City": "RANCHO CUCAMONGA",
+    "State": "CA",
+    "Zip": "91739"
+  },
+  {
+    "LocationName": "MamaJaan Food & Liquor",
+    "Address1": "3082 W. Bullard Ave",
+    "City": "Fresno",
+    "State": "CA",
+    "Zip": "93711"
+  },
+  {
+    "LocationName": "Manhattan Fine Wines Inc",
+    "Address1": "1157 Artesia Blvd,",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Maple Liquor Market",
+    "Address1": "3000 Maple Avenue",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90011"
+  },
+  {
+    "LocationName": "Marietta Liquors",
+    "Address1": "27985 Bradley Road",
+    "City": "Sun City",
+    "State": "CA",
+    "Zip": "92586"
+  },
+  {
+    "LocationName": "MARKET WINE & SPIRITS-CA",
+    "Address1": "1100 PITT SCHOOL RD",
+    "City": "DIXON",
+    "State": "CA",
+    "Zip": "95620"
+  },
+  {
+    "LocationName": "Mel & Rose Liquor & Deli",
+    "Address1": "8344 Melrose Ave",
+    "City": "West Hollywood",
+    "State": "CA",
+    "Zip": "90069"
+  },
+  {
+    "LocationName": "Menlo Park Fine Wine & Spirits",
+    "Address1": "1820 El Camino Real",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94027"
+  },
+  {
+    "LocationName": "Mercado (Pasadena)",
+    "Address1": "140 S. Lake Ave",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91101"
+  },
+  {
+    "LocationName": "Mercado (Santa Monica)",
+    "Address1": "1416 4th St",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90401"
+  },
+  {
+    "LocationName": "Mercado (Manhattan Beach)",
+    "Address1": "3200 N SEPULVEDA BLVD STE 3212A",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Mercado on 3rd",
+    "Address1": "7910 -7918 W 3rd St",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90048"
+  },
+  {
+    "LocationName": "Mercado Taqueria",
+    "Address1": "11929 VENTURA BLVD",
+    "City": "STUDIO CITY",
+    "State": "CA",
+    "Zip": "91604"
+  },
+  {
+    "LocationName": "Meritage Wine Maket & Tasting Room",
+    "Address1": "162 S. Rancho Santa Fe Rd.",
+    "City": "Encinitas",
+    "State": "CA",
+    "Zip": "92024"
+  },
+  {
+    "LocationName": "Michael's Market & Liquor",
+    "Address1": "37935 47TH ST E",
+    "City": "PALMDALE",
+    "State": "CA",
+    "Zip": "93552"
+  },
+  {
+    "LocationName": "Mission Liquor ",
+    "Address1": "Mission Liquor ",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91104"
+  },
+  {
+    "LocationName": "Morenas Mexican Cuisine",
+    "Address1": "7402 Edinger Ave",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92647"
+  },
+  {
+    "LocationName": "Mr. Kegs",
+    "Address1": "5914-5918 Warner Ave",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92649"
+  },
+  {
+    "LocationName": "Nelson's Liquor Land",
+    "Address1": "1435 N LaBrea Avenue",
+    "City": "Inglewood",
+    "State": "CA",
+    "Zip": "90302"
+  },
+  {
+    "LocationName": "Neptune Liquor",
+    "Address1": "600 W PACIFIC COAST HWY",
+    "City": "WILMINGTON",
+    "State": "CA",
+    "Zip": "90744"
+  },
+  {
+    "LocationName": "Nicob_x0019_s",
+    "Address1": "5760 E 2nd St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "OLA",
+    "Address1": "21040 PACIFIC COAST HWY STE F200",
+    "City": "HUNTINGTON BEACH",
+    "State": "CA",
+    "Zip": "92648"
+  },
+  {
+    "LocationName": "Ola Mexican Kitchen",
+    "Address1": "6420 E PACIFIC COAST HWY # 230",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Old River Liquor",
+    "Address1": "7399 Stewart and Gray Rd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Old Town Liquor & Deli ",
+    "Address1": "2304 San Diego Avenue",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92110"
+  },
+  {
+    "LocationName": "On The Thirty",
+    "Address1": "14622 Ventura Blvd STE 115",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91403"
+  },
+  {
+    "LocationName": "Pacific Coast Food",
+    "Address1": "10703 Vanowen St.",
+    "City": "North Hollywood",
+    "State": "CA",
+    "Zip": "91605"
+  },
+  {
+    "LocationName": "Pacific Standard Prime",
+    "Address1": "1810 S Pacific Coast Hwy",
+    "City": "Redando Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Palisades Wine & Spirits",
+    "Address1": "544 Palisades drive",
+    "City": "Pacific Palisades",
+    "State": "CA",
+    "Zip": "90069"
+  },
+  {
+    "LocationName": "Pal's Liquor Wine Shop",
+    "Address1": "19344 RINALDI ST",
+    "City": "NORTHRIDGE",
+    "State": "CA",
+    "Zip": "91326"
+  },
+  {
+    "LocationName": "PANXA",
+    "Address1": "3935-3939 E BROADWAY",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Parkers Lounge",
+    "Address1": "1500 Aviation Blvd.",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90278"
+  },
+  {
+    "LocationName": "Pars Spirits Unlimited Inc (ABC Liquors)",
+    "Address1": "3950 E. Ocean Blvd",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Party House Liquor (Chino Hills)",
+    "Address1": "4060 CHINO HILLS PKWY",
+    "City": "CHINO HILLS",
+    "State": "CA",
+    "Zip": "91709"
+  },
+  {
+    "LocationName": "Party House Liquor (Redondo Beach)",
+    "Address1": "1817 S CATALINA AVE",
+    "City": "REDONDO BEACH",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "Party House Liquor Agoura Hills",
+    "Address1": "29160 Roadside Dr",
+    "City": "Agoura Hills",
+    "State": "CA",
+    "Zip": "91301"
+  },
+  {
+    "LocationName": "Piazza Fine Foods",
+    "Address1": "3922 Middlefield Road",
+    "City": "Palo Alto",
+    "State": "CA",
+    "Zip": "94303"
+  },
+  {
+    "LocationName": "Quicker Liquor",
+    "Address1": "9757 Sierra Ave",
+    "City": "Fontana",
+    "State": "CA",
+    "Zip": "92335"
+  },
+  {
+    "LocationName": "R Bar",
+    "Address1": "106 W 3rd St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90802"
+  },
+  {
+    "LocationName": "Ramirez Beverage Center",
+    "Address1": "2765 E OLYMPIC BLVD",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "Ramirez Liquor ",
+    "Address1": "Ramirez Liquor ",
+    "City": "Pico Rivera",
+    "State": "CA",
+    "Zip": "90660"
+  },
+  {
+    "LocationName": "Ramirez Liquor",
+    "Address1": "736 S. Soto St.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90023"
+  },
+  {
+    "LocationName": "RAMPWEST MARKET & LIQUOR KING KEG",
+    "Address1": "5241 W ROSECRANS AVE",
+    "City": "HAWTHORNE",
+    "State": "CA",
+    "Zip": "90250"
+  },
+  {
+    "LocationName": "Regency West",
+    "Address1": "3339 w 43rd st.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90008"
+  },
+  {
+    "LocationName": "Rick's Liquor",
+    "Address1": "1231 N HACIENDA BLVD",
+    "City": "LA PUENTE",
+    "State": "CA",
+    "Zip": "91744"
+  },
+  {
+    "LocationName": "Ricks Tavern on Main",
+    "Address1": "2907 Main St",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90405"
+  },
+  {
+    "LocationName": "Rileys (Long Beach)",
+    "Address1": "5331-33 E SECOND ST",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "Robert Burns Liquor",
+    "Address1": "157 N. Robertson Blvd.",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90211"
+  },
+  {
+    "LocationName": "Rockys Liquor",
+    "Address1": "1045 W. Foothill Blvd.",
+    "City": "Claremont",
+    "State": "CA",
+    "Zip": "91711"
+  },
+  {
+    "LocationName": "Roco Wine and Spirits",
+    "Address1": "2220 Lake Washington Blvd",
+    "City": "Sacramento",
+    "State": "CA",
+    "Zip": "95691"
+  },
+  {
+    "LocationName": "Royal Vista Golf Course",
+    "Address1": "20055 E Colima Rd",
+    "City": "walnut",
+    "State": "CA",
+    "Zip": "91789"
+  },
+  {
+    "LocationName": "Saddleback Liquor",
+    "Address1": "1659 E. First St",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92701"
+  },
+  {
+    "LocationName": "Samb_x0019_s Market",
+    "Address1": "801 E. California Ave",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Zip": "93307"
+  },
+  {
+    "LocationName": "San Dimas Liquor",
+    "Address1": "1427 W Arrow Hwy",
+    "City": "San Dimas",
+    "State": "CA",
+    "Zip": "91773"
+  },
+  {
+    "LocationName": "Santa Ana Country Club",
+    "Address1": "20382 Newport Boulevard",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92707"
+  },
+  {
+    "LocationName": "Santa Monica Liquor",
+    "Address1": "1001 Wilshire Blvd",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90401"
+  },
+  {
+    "LocationName": "Savemore Market (Oakland)",
+    "Address1": "4219 Park Blvd",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip": "94602"
+  },
+  {
+    "LocationName": "Shakas",
+    "Address1": "101 W Main St",
+    "City": "Alhambra",
+    "State": "CA",
+    "Zip": "91801"
+  },
+  {
+    "LocationName": "Shop Easy Liquor-CA",
+    "Address1": "6239 FOOTHILL BLVD",
+    "City": "Tujunga",
+    "State": "CA",
+    "Zip": "91042"
+  },
+  {
+    "LocationName": "Shoup Liquor",
+    "Address1": "22347 Sherman Way",
+    "City": "Canoga Park",
+    "State": "CA",
+    "Zip": "91303"
+  },
+  {
+    "LocationName": "Showcase Wine and Spirits",
+    "Address1": "1390-92 N Lake Ave",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91104"
+  },
+  {
+    "LocationName": "So Cal Wine & Spirits",
+    "Address1": "1042 E 1st St",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92780"
+  },
+  {
+    "LocationName": "Sol Agave - MV",
+    "Address1": "27741 Crown Valley Pkwy",
+    "City": "Mission Viejo",
+    "State": "CA",
+    "Zip": "92691"
+  },
+  {
+    "LocationName": "SOL AGAVE- SC",
+    "Address1": "111 AVENIDA DEL MAR STE B",
+    "City": "SAN CLEMENTE",
+    "State": "CA",
+    "Zip": "92672"
+  },
+  {
+    "LocationName": "Sol Cocina Playa Vista",
+    "Address1": "12775 Millenium Dr",
+    "City": "Playa Vista",
+    "State": "CA",
+    "Zip": "90094"
+  },
+  {
+    "LocationName": "Sophie's Place",
+    "Address1": "1708 S. Catalina Ave.",
+    "City": "Redando Beach",
+    "State": "CA",
+    "Zip": "90277"
+  },
+  {
+    "LocationName": "South Beverly Grill",
+    "Address1": "114, 118, and  122 S Beverly Blvd",
+    "City": "Beverly Hills",
+    "State": "CA",
+    "Zip": "90212"
+  },
+  {
+    "LocationName": "Spirits Liquor",
+    "Address1": "2341 S. Garfield Avenue",
+    "City": "Monterey Park",
+    "State": "CA",
+    "Zip": "91754"
+  },
+  {
+    "LocationName": "Stearns Liquor",
+    "Address1": "4360-62 E STEARNS ST",
+    "City": "LONG BEACH",
+    "State": "CA",
+    "Zip": "90815"
+  },
+  {
+    "LocationName": "Sunland Produce",
+    "Address1": "8840 Glenoaks Blvd",
+    "City": "sun valley",
+    "State": "CA",
+    "Zip": "91352"
+  },
+  {
+    "LocationName": "Super Antojitos South Coast",
+    "Address1": "3305 S. Bristol St",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92704"
+  },
+  {
+    "LocationName": "Super King Market",
+    "Address1": "2260 N. Lincoln Ave.",
+    "City": "Altadena",
+    "State": "CA",
+    "Zip": "91001"
+  },
+  {
+    "LocationName": "Super King Market Warehouse",
+    "Address1": "3420 Garfield Ave",
+    "City": "Commerce",
+    "State": "CA",
+    "Zip": "90040"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "10500 Magnolia Ave",
+    "City": "Anaheim",
+    "State": "CA",
+    "Zip": "92804"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "2716 N. San Fernando Rd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90065"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "436 Auto Center Dr",
+    "City": "Claremont",
+    "State": "CA",
+    "Zip": "91711"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "19500 Plummer St.",
+    "City": "Northridge",
+    "State": "CA",
+    "Zip": "91324"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "7227 Van Nuys Blvd",
+    "City": "Van Nuys",
+    "State": "CA",
+    "Zip": "91405"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "2741 MacArthur Blvd",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Zip": "92704"
+  },
+  {
+    "LocationName": "Super King Markets",
+    "Address1": "6501 San Fernando Rd",
+    "City": "Glendale",
+    "State": "CA",
+    "Zip": "91201"
+  },
+  {
+    "LocationName": "Superior Grocers (Santa F)",
+    "Address1": "15510 Carmenita Rd",
+    "City": "Santa Fe Springs",
+    "State": "CA",
+    "Zip": "90670"
+  },
+  {
+    "LocationName": "Surf Center Bar",
+    "Address1": "34700 Pacific Coast Hwy",
+    "City": "Dana Point",
+    "State": "CA",
+    "Zip": "92624"
+  },
+  {
+    "LocationName": "Tarzana Wine & Spirits ",
+    "Address1": "Tarzana Wine & Spirits ",
+    "City": "Tarzana",
+    "State": "CA",
+    "Zip": "91356"
+  },
+  {
+    "LocationName": "Ted's Liquor",
+    "Address1": "10145 Atlantic Ave",
+    "City": "South Gate",
+    "State": "CA",
+    "Zip": "90280"
+  },
+  {
+    "LocationName": "Tennessee Jackb_x0019_s",
+    "Address1": "4000 E Anaheim St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90804"
+  },
+  {
+    "LocationName": "Tequila cantina and Grill",
+    "Address1": "4310 W Magnolia Blvd",
+    "City": "Burbank",
+    "State": "CA",
+    "Zip": "91505"
+  },
+  {
+    "LocationName": "Tequila Ranch Liquor Mart",
+    "Address1": "8007 Somerset Blvd",
+    "City": "Paramount",
+    "State": "CA",
+    "Zip": "90723"
+  },
+  {
+    "LocationName": "Texas Liquors INC- CA",
+    "Address1": "945 Carlsbad Village Drive",
+    "City": "Carlsbad",
+    "State": "CA",
+    "Zip": "92008"
+  },
+  {
+    "LocationName": "The Alchemist District",
+    "Address1": "2493 Park Ave STE 27",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92782"
+  },
+  {
+    "LocationName": "The Bottle House",
+    "Address1": "3012 Grape St.",
+    "City": "San Diego",
+    "State": "CA",
+    "Zip": "92102"
+  },
+  {
+    "LocationName": "The Bottle Shoppe",
+    "Address1": "14040 Hubbard ST",
+    "City": "Sylmar",
+    "State": "CA",
+    "Zip": "91342"
+  },
+  {
+    "LocationName": "The Brass Tap ( Corona)",
+    "Address1": "705 N MAIN ST",
+    "City": "CORONA",
+    "State": "CA",
+    "Zip": "92880"
+  },
+  {
+    "LocationName": "The Bungalow",
+    "Address1": "6420 E PACIFIC COAST HIGHWAY UNIT 200",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90803"
+  },
+  {
+    "LocationName": "The Citrus Club",
+    "Address1": "50-503 Mandarina",
+    "City": "La Quinta",
+    "State": "CA",
+    "Zip": "92253"
+  },
+  {
+    "LocationName": "The Drink Bar",
+    "Address1": "1705 Flight Way",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92782"
+  },
+  {
+    "LocationName": "The Hideaway at Roundin3rd",
+    "Address1": "4137 E Anaheim St",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90804"
+  },
+  {
+    "LocationName": "The Olive Restobar",
+    "Address1": "8830 APOLLO WAY #104",
+    "City": "DOWNEY",
+    "State": "CA",
+    "Zip": "90242"
+  },
+  {
+    "LocationName": "The Point Restaurant & Bar",
+    "Address1": "34085 Pacific Coast Hwy",
+    "City": "Dana Point",
+    "State": "CA",
+    "Zip": "92629"
+  },
+  {
+    "LocationName": "The Willow's Market",
+    "Address1": "60 Middlefield Road",
+    "City": "Menlo Park",
+    "State": "CA",
+    "Zip": "94025"
+  },
+  {
+    "LocationName": "The Wine Country- CA",
+    "Address1": "2301 Redondo Ave",
+    "City": "Signal Hill",
+    "State": "CA",
+    "Zip": "90755"
+  },
+  {
+    "LocationName": "Three Star Market ",
+    "Address1": "8103-05 Avalon Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90003"
+  },
+  {
+    "LocationName": "Tin Roof Bistro (TRB)",
+    "Address1": "3500 N Sepulveda Blvd",
+    "City": "Manhattan Beach",
+    "State": "CA",
+    "Zip": "90266"
+  },
+  {
+    "LocationName": "Total Wine (Palm Desert)",
+    "Address1": "72339 Highway 111",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Zip": "92260"
+  },
+  {
+    "LocationName": "Total Wine (San Jose)",
+    "Address1": "5170 Stevens Creek Blvd",
+    "City": "San Jose",
+    "State": "CA",
+    "Zip": "95129"
+  },
+  {
+    "LocationName": "Total Wine (Woodland Hills)",
+    "Address1": "6232 Topanga Canyn Blvd #1380",
+    "City": "Woodland Hills",
+    "State": "CA",
+    "Zip": "91367"
+  },
+  {
+    "LocationName": "Total Wine & More",
+    "Address1": "24001 El Toro Road",
+    "City": "Laguna Hills",
+    "State": "CA",
+    "Zip": "92653"
+  },
+  {
+    "LocationName": "Total Wine & More (Fremont)",
+    "Address1": "Pacific Commons",
+    "City": "Fremont",
+    "State": "CA",
+    "Zip": "94538"
+  },
+  {
+    "LocationName": "Total Wine & More (Mountain View)",
+    "Address1": "1010 N Rengstorff",
+    "City": "Mountain View",
+    "State": "CA",
+    "Zip": "94043"
+  },
+  {
+    "LocationName": "Total Wine & More (San Ramon)",
+    "Address1": "3161 Crow Canyon Place",
+    "City": "San Ramon",
+    "State": "CA",
+    "Zip": "94583"
+  },
+  {
+    "LocationName": "Total Wine & More (Arden)",
+    "Address1": "Arden Way and Howe Ave.",
+    "City": "Sacramento",
+    "State": "CA",
+    "Zip": "95825"
+  },
+  {
+    "LocationName": "Total Wine & More (Brea) -CA",
+    "Address1": "Brea Plaza Shopping Center",
+    "City": "Brea",
+    "State": "CA",
+    "Zip": "92821"
+  },
+  {
+    "LocationName": "Total Wine & More (Daly City)",
+    "Address1": "311 Gellert Blvd",
+    "City": "Daly City",
+    "State": "CA",
+    "Zip": "94015"
+  },
+  {
+    "LocationName": "Total Wine & More (Elk Grove)",
+    "Address1": "Laguna Crossroads",
+    "City": "Elk Grove",
+    "State": "CA",
+    "Zip": "95758"
+  },
+  {
+    "LocationName": "Total Wine & More (Folsom)",
+    "Address1": "Broadstone Plaza",
+    "City": "Folsom",
+    "State": "CA",
+    "Zip": "95630"
+  },
+  {
+    "LocationName": "Total Wine & More (Fremont)",
+    "Address1": "43484 BOSCELL RD",
+    "City": "Fremont",
+    "State": "CA",
+    "Zip": "94538"
+  },
+  {
+    "LocationName": "Total Wine & More (Fresno)",
+    "Address1": "7925 N. Blackstone Ave",
+    "City": "Fresno",
+    "State": "CA",
+    "Zip": "93720"
+  },
+  {
+    "LocationName": "Total Wine & More (Huntington)",
+    "Address1": "Huntington",
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Zip": "92647"
+  },
+  {
+    "LocationName": "Total Wine & More (Laguna Hills)",
+    "Address1": "24001 El Toro Road Ste B",
+    "City": "Laguna Hills",
+    "State": "CA",
+    "Zip": "92653"
+  },
+  {
+    "LocationName": "Total Wine & More (Long Beach)",
+    "Address1": "Long Beach Towne Center",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90808"
+  },
+  {
+    "LocationName": "Total Wine & More (Newport Beach)",
+    "Address1": "1280 BISON ST",
+    "City": "NEWPORT BEACH",
+    "State": "CA",
+    "Zip": "92660"
+  },
+  {
+    "LocationName": "Total Wine & More (Northridge)",
+    "Address1": "Nordhoff Plaza",
+    "City": "Northridge",
+    "State": "CA",
+    "Zip": "91324"
+  },
+  {
+    "LocationName": "Total Wine & More (Palm Desert)",
+    "Address1": "72339 Highway 111",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Zip": "92260"
+  },
+  {
+    "LocationName": "Total Wine & More (Pasadena)",
+    "Address1": "721 E Colorado Blvd",
+    "City": "Pasadena",
+    "State": "CA",
+    "Zip": "91101"
+  },
+  {
+    "LocationName": "Total Wine & More (Pleasant Hill)",
+    "Address1": "3250 Buskirk Ave",
+    "City": "Pleasant Hill",
+    "State": "CA",
+    "Zip": "94523"
+  },
+  {
+    "LocationName": "Total Wine & More (Pleasanton) -  CA",
+    "Address1": "4225 Rosewood Dr.",
+    "City": "Pleasanton",
+    "State": "CA",
+    "Zip": "94588"
+  },
+  {
+    "LocationName": "Total Wine & More (Rancho Cucamonga)",
+    "Address1": "8201 Day Creek Blvd",
+    "City": "Rancho Cucamongo",
+    "State": "CA",
+    "Zip": "91739"
+  },
+  {
+    "LocationName": "Total Wine & More (Redondo Beach)",
+    "Address1": "South Bay Marketplace",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Zip": "90278"
+  },
+  {
+    "LocationName": "Total Wine & More (Roseville)",
+    "Address1": "5791 Five Star Blvd",
+    "City": "Roseville",
+    "State": "CA",
+    "Zip": "95678"
+  },
+  {
+    "LocationName": "Total Wine & More (San Jose)",
+    "Address1": "5140 CHERRY AVE STE 30",
+    "City": "San Jose",
+    "State": "CA",
+    "Zip": "95118"
+  },
+  {
+    "LocationName": "Total Wine & More (San Mateo)",
+    "Address1": "2250 Bridgepointe Pkwy",
+    "City": "San Mateo",
+    "State": "CA",
+    "Zip": "94404"
+  },
+  {
+    "LocationName": "TOTAL WINE & MORE (Temecula)- CA",
+    "Address1": "40432 WINCHESTER RD",
+    "City": "TEMECULA",
+    "State": "CA",
+    "Zip": "92591"
+  },
+  {
+    "LocationName": "Total Wine & More (Thousand Oaks)",
+    "Address1": "Best Buy Plaza",
+    "City": "Thousand Oaks",
+    "State": "CA",
+    "Zip": "91360"
+  },
+  {
+    "LocationName": "Total Wine & More (Tustin)",
+    "Address1": "The Market Place",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92782"
+  },
+  {
+    "LocationName": "Trading Post",
+    "Address1": "9956 LAKEWOOD BLVD",
+    "City": "DOWNEY",
+    "State": "CA",
+    "Zip": "90240"
+  },
+  {
+    "LocationName": "Tribute (te'kila)",
+    "Address1": "13817 Ventura Blvd",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91423"
+  },
+  {
+    "LocationName": "Tustin Wine & Spirits",
+    "Address1": "14211 Red Hill Ave",
+    "City": "Tustin",
+    "State": "CA",
+    "Zip": "92780"
+  },
+  {
+    "LocationName": "Uptown Liquor",
+    "Address1": "7301 Greenleaf Ave",
+    "City": "Whittier",
+    "State": "CA",
+    "Zip": "90602"
+  },
+  {
+    "LocationName": "US Liquor & Jr Market",
+    "Address1": "3122 Los Coyotes Diagonal",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90808"
+  },
+  {
+    "LocationName": "Vallarta Supermarkets",
+    "Address1": "1803 E Palmdale Blvd",
+    "City": "Palmdale",
+    "State": "CA",
+    "Zip": "93550"
+  },
+  {
+    "LocationName": "Vallarta Warehouse",
+    "Address1": "12881 Bradley Ave",
+    "City": "Sylmar",
+    "State": "CA",
+    "Zip": "91342"
+  },
+  {
+    "LocationName": "Valley Beverages",
+    "Address1": "Valley Beverages",
+    "City": "Sherman Oaks",
+    "State": "CA",
+    "Zip": "91403"
+  },
+  {
+    "LocationName": "Valley Liquor & Fine Wine (VanNuys)",
+    "Address1": "7357 Van Nuys Blvd",
+    "City": "Van Nuys",
+    "State": "CA",
+    "Zip": "91405"
+  },
+  {
+    "LocationName": "Vendome - Fullerton, CA ",
+    "Address1": "Vendome - Fullerton, CA ",
+    "City": "Fullerton",
+    "State": "CA",
+    "Zip": "92831"
+  },
+  {
+    "LocationName": "Village Liquor",
+    "Address1": "2905 HONOLULU AVE",
+    "City": "LA CRESCENTA",
+    "State": "CA",
+    "Zip": "91214"
+  },
+  {
+    "LocationName": "Village Liquor (San Bernardino)",
+    "Address1": "4117 Riverside Dr",
+    "City": "Chino",
+    "State": "CA",
+    "Zip": "91710"
+  },
+  {
+    "LocationName": "Virginia Country Club",
+    "Address1": "4602 N. Virginia Rd.,",
+    "City": "Long Beach",
+    "State": "CA",
+    "Zip": "90807"
+  },
+  {
+    "LocationName": "Vista wine spirits",
+    "Address1": "10223 Prospect Ave",
+    "City": "Santee",
+    "State": "CA",
+    "Zip": "92071"
+  },
+  {
+    "LocationName": "Wades Wines",
+    "Address1": "30961 Agoura Rd Ste 321",
+    "City": "West Lake Village",
+    "State": "CA",
+    "Zip": "91361"
+  },
+  {
+    "LocationName": "Wade's Wines",
+    "Address1": "30961 Agoura Rd",
+    "City": "Westlake Village",
+    "State": "CA",
+    "Zip": "91361"
+  },
+  {
+    "LocationName": "Wally's Vinoteca",
+    "Address1": "10459 Jefferson Blvd",
+    "City": "Culver City",
+    "State": "CA",
+    "Zip": "90232"
+  },
+  {
+    "LocationName": "Wallys Wine & Spirits( Santa Monica)- CA",
+    "Address1": "214 Wilshire Blvd",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Zip": "90401"
+  },
+  {
+    "LocationName": "Wally's Wine and Spirits",
+    "Address1": "10459 Jefferson Blvd",
+    "City": "Culver City",
+    "State": "CA",
+    "Zip": "90232"
+  },
+  {
+    "LocationName": "Wilsons Liquor",
+    "Address1": "916 E 8th St",
+    "City": "National City",
+    "State": "CA",
+    "Zip": "91950"
+  },
+  {
+    "LocationName": "Wyman's Liquor",
+    "Address1": "9300 Firestone Blvd",
+    "City": "Downey",
+    "State": "CA",
+    "Zip": "90241"
+  },
+  {
+    "LocationName": "Xclusive Taqueria Moderna",
+    "Address1": "1701 CORPORATE DR STE C8",
+    "City": "LADERA RANCH",
+    "State": "CA",
+    "Zip": "92694"
+  },
+  {
+    "LocationName": "Yucatan Grill",
+    "Address1": "550 Pacific Coast HWY",
+    "City": "Seal Beach",
+    "State": "CA",
+    "Zip": "90740"
+  },
+  {
+    "LocationName": "Yxta Cocina Mexicana, LLC",
+    "Address1": "601 S Central Avenue",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Zip": "90021"
+  },
+  {
+    "LocationName": "Zander's Spirits",
+    "Address1": "11008 Donner Pass Rd",
+    "City": "Truckee",
+    "State": "CA",
+    "Zip": "96161"
+  }
+]
