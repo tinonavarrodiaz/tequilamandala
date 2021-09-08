@@ -48,7 +48,7 @@ function response($msg, $status, $code, $error){
 }
 
 
-$to = "tino.navarro@hotmail.com";
+$to = "newsletter@tequilamandala.com";
 
 // if (!isset($_POST['newsletter'])) {
   $email = $_POST['newsletter'];
