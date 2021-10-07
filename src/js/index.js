@@ -152,9 +152,9 @@ const stayInTouchForm = id('stay-in-touch-form')
 // console.log(stayInTouch, stayInTouchClose, stayInTouchForm)
 
 const stayInTouchRemove =(el)=>{
-  el.classList.add('hide')
+  el.parentElement.classList.add('hide')
   setTimeout(()=>{
-    el.remove()
+    el.parentElement.remove()
   },300)
 }
 stayInTouch.addEventListener('click', e=>{
@@ -184,20 +184,48 @@ stayInTouchForm.addEventListener('submit', e=>{
       },
       json: true
     }
+    const authOptions1 = {
+      method: 'POST',
+      url: "https://tequilamandala.com/php/wellcome.php",
+      data: data,
+      headers: {
+        'Authorization': 'Basic Y2xpZW50OnNlY3JldA==',
+        'Content-Type': 'application/x-www-form-urlencoded'
+      },
+      json: true
+    }
   // console.log(data.get("newsletter"))
   axios(authOptions)
     .then(res=>{
-      console.log(res)
+      console.log(res.data)
       if(res.status===200){
-        button.innerText="Sent"
-        button.setAttribute('disabled', 'disabled')
-        input.setAttribute('readonly', 'readonly')
-        spop({
-          position  : 'bottom-right',
-          template: '<h4>Success</h4>your email has been registered',
-          style: 'success',
-          autoclose: 10000
-        });
+        axios(authOptions1)
+        .then(res1=>{
+          if(res1.status===200){
+            button.innerText="Sent"
+            button.setAttribute('disabled', 'disabled')
+            input.setAttribute('readonly', 'readonly')
+            // console.log(res)
+            spop({
+              position  : 'bottom-right',
+              template: '<h4>Success</h4>your email has been registered',
+              style: 'success',
+              autoclose: 3000
+            });
+            setTimeout(() => {
+              Target.parentElement.parentElement.remove()
+            }, 3000);
+          }else{
+            button.innerText="Subscribe"
+            spop({
+              position  : 'bottom-right',
+              template: '<h4>An error occurred.</h4>Please try again later',
+              style: 'error',
+              autoclose: 10000
+            });
+          }
+        })
+        
       }else{
         button.innerText="Subscribe"
         spop({
@@ -447,6 +475,7 @@ if (contactForm){
   contactForm.addEventListener('submit', e=>{
     e.preventDefault()
     const Target = e.target
+    console.log(Target.parentElement)
   const data = new FormData(Target)
   const url = Target.action
   const method = Target.method
@@ -475,15 +504,16 @@ if (contactForm){
           position: 'top-right',
           template: '<h4>Form sent successfully</h4>We will contact you shortly',
           style: 'success',
-          autoclose: 10000
+          autoclose: 7000
         });
+        
       }else{
         button.innerText="Subscribe"
         spop({
           position: 'top-right',
           template: '<h4>An error occurred.</h4>Please try again later',
           style: 'error',
-          autoclose: 10000
+          autoclose: 7000
         });
       }
     })
@@ -493,8 +523,23 @@ if (contactForm){
           position: 'top-right',
           template: '<h4>An error occurred.</h4>Please try again later',
           style: 'error',
-          autoclose: 10000
+          autoclose: 7000
         });
     })
   })
 }
+// if(verifyMobile()){
+//   let st = q('.stay-in-touch')
+//   console.log(st)
+//   let stnew = st.cloneNode(true)
+//   st.remove()
+//   let stC = document.createElement("div")
+//   console.log(stC)
+//   stC.className="stC"
+//   stC.appendChild(stnew)
+//   document.body.appendChild(stC)
+//   console.log(stC)
+//   stC.addEventListener('click',e=>{
+//     if (e.target.classList.contains('stay-in-touch__close')) stC.remove()
+//   })
+// }

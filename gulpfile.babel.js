@@ -21,6 +21,8 @@ import fs from "fs";
 import tinypng from "gulp-tinypng";
 import ts from "gulp-typescript";
 import deploy from 'gulp-gh-pages'
+import gutil from 'gulp-util';
+import ftp from 'vinyl-ftp';
 
 const tinypngApiKey = "X8tf1jg75VsrrdWsDJfcbGxWxkw4gj8Y";
 
@@ -111,6 +113,7 @@ const pugDev = () => {
     )
     .pipe(gulp.dest(dest));
 };
+
 
 
 
@@ -279,6 +282,29 @@ const ghDeploy = ()=>{
 
 };
 
+const ftpTask = ()=>{
+  var conn = ftp.create( {
+        host:     'solerypalau.mx',
+        user:     'solerypa',
+        password: 'SoleryP(2021)',
+        parallel: 10,
+        log: gutil.log
+    } );
+    var globs = [
+        'public/**/**'
+    ];
+    
+  return gulp.src(globs,{base: '.', buffer: false})
+  .pipe(conn.newer('/public_html/mandala'))
+  .pipe(conn.dest('/public_html/mandala'))
+  // .pipe(ftp({
+  //   host: 'solerypalau.mx',
+  //   user: 'solerypa',
+  //   pass: "SoleryP(2021)",
+  //   remotePath: "/public_html/mandala"
+  // }))
+};
+
 gulp.task(
   "dev",
   gulp.series(
@@ -354,4 +380,5 @@ exports.robotsTask = robotsTask;
 exports.tsTask = tsTask;
 exports.tinyPNG = tinyPNG;
 exports.ghDeploy = ghDeploy;
+exports.ftpTask = ftpTask;
 // exports.dev = dev

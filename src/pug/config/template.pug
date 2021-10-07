@@ -52,18 +52,19 @@ html(lang="en" class= `${pageTitle.replace(' ','')} ${classHTML} portrait`)
       include ../includes/header
     main
       block main
-    aside.stay-in-touch#stay-in-touch
-      .stay-in-touch__close#stay-in-touch-close
-      h2.stay-in-touch__title Stay in Touch
-      p.stay-in-touch__text Join us to be the first to receive Mandala news!
-      form(action="./php/newsletter.php" method="post").stay-in-toch__form#stay-in-touch-form
-        input(name="newsletter" type="email" placeholder="Enter your email" required pattern="^[a-z0-9]+(\\.[_a-z0-9]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,15})")
-        button(type="submit") Subscribe
+    .stC
+      aside.stay-in-touch#stay-in-touch
+        .stay-in-touch__close#stay-in-touch-close
+        h2.stay-in-touch__title Stay in Touch
+        p.stay-in-touch__text Join us to be the first to receive Mandala news!
+        form(action="https://tequilamandala.com/php/newsletter.php" method="post").stay-in-toch__form#stay-in-touch-form
+          input(name="newsletter" type="email" placeholder="Enter your email" required pattern="^[a-z0-9]+(\\.[_a-z0-9]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,15})")
+          button(type="submit") Subscribe
     
     footer.main-footer#main-footer
           include ../includes/footer
     include ../components/accessibility
-    side.accessibility#accessibility
+    aside.accessibility#accessibility
       include ../icons/accessibility
     //- .loading#loading
     //-   img(src="img/loading-page1.svg" alt="Loading Page")

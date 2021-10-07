@@ -53,7 +53,7 @@
   & .social-networks {
     @extend %list-style;
     margin-top: 5.4vh;
-    $size: 16px;
+    $size: 20px;
     display: flex;
 
     li {
@@ -197,5 +197,13 @@
     &::after {
       transform: translateX(-50%) rotate(-45deg);
     }
+  }
+}
+.stC {
+  transition: opacity 0.3s;
+  opacity: 1;
+  &.hide {
+    opacity: 0;
+    //visibility: hidden;
   }
 }

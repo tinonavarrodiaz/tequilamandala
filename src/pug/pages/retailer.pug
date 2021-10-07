@@ -1,21 +1,10 @@
 extends ../config/template
 append config
-  -pageTitle = 'Retailer'
+  -pageTitle = 'Contact'
   -pageDescription = 'Tequila Mandala'
   -pageImage = ''
 
 block main
 
-  section.section.retailer__container
-    .list-stores#listStore
-      h2 Find a Retailer
-      .input-search-group
-        input(type="search" placeholder="Find Your Store").search#inputSearch
-        //button.search-button#buttonSearch
-        //  include ../icons/lupa
-    .addressStore-container
-      .addressStore#addresStore
-        h1.storename#storeName
-        .directionStore#directionStore
-      .map-container
-        #map
+  section.section.retailer-new__container(style="padding: 0 10vw 75px")
+    <div id="storepoint-container" data-map-id="1614231f12fddd"></div><script>(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://cdn.storepoint.co/api/v1/js/1614231f12fddd.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);}());</script>

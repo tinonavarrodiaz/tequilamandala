@@ -1,63 +1,69 @@
-.access-page{
+.access-page {
   display: grid;
   grid-template-rows: 28vh 1fr auto;
   padding-top: 15vh;
   padding-bottom: 9vh;
   justify-content: center;
   opacity: 0;
-  animation: acc .5s .3s forwards;
-  @include to(l){
+  animation: acc 0.5s 0.3s forwards;
+  @include to(l) {
     padding-bottom: 30vh;
   }
   @keyframes acc {
-    to{
+    to {
       opacity: 1;
     }
   }
-  img{
+  img {
     width: auto;
     height: 100%;
     margin: 0 auto;
-    @include to(l){
+    @include to(l) {
       max-width: 50%;
       height: auto;
     }
   }
-  &__cont{
+  &__cont {
     padding-top: 0;
     text-align: center;
-    @include from(l){
+    @include from(l) {
       padding-top: 70px;
     }
-    h1{
+    h1 {
       font-family: 'Tahoma';
       letter-spacing: 1px;
       margin-bottom: 4vh;
       font-size: 30px;
       color: #969696;
-      @include to(l){
+      @include to(l) {
         font-size: 1em;
         padding: 0 2rem;
       }
     }
   }
-  &__footer{
+  &__footer {
     font-size: 12px;
     text-align: center;
-    color: #4D4D4D;
+    color: #4d4d4d;
+    @include to(l) {
+      max-width: 85%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 100px;
+    }
   }
-  button{
+  button {
     background: transparent !important;
-    transition: all .3s;
-    &:hover{
+    transition: all 0.3s;
+    &:hover {
       background: #212951 !important;
-      color: #fff
+      color: #fff;
     }
   }
 }
-.main-menu__link.active{
+.main-menu__link.active {
   position: relative;
-  &:after{
+  &:after {
     content: '';
     position: absolute;
     display: block;
